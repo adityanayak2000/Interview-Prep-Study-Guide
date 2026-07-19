@@ -1,5 +1,7 @@
 # Tier P — Product / Fintech / SaaS
 
-Backlog rows live on the canonical status board: [../README.md](../README.md) (companies #23–52).
+Status board (canonical): [../README.md](../README.md) (companies #23–52 + Media.net #52b).
 
-**Rules:** do not invent OA/process for `todo` rows. When researching, copy [`../_TEMPLATE.md`](../_TEMPLATE.md), write one file per company, update the status board, open a PR ([CONTRIBUTING](../../../CONTRIBUTING.md)).
+**Recently added:** Fiorano, Redwood Software, ZL Tech, Omnicell, Wabtec, **Media.net** (ad-tech; CP-hard campus SDE).
+
+**Rules:** do not invent OA/process for `todo` rows. Template: [`../_TEMPLATE.md`](../_TEMPLATE.md). PRs: [CONTRIBUTING](../../../CONTRIBUTING.md). §8 Drive folders = **LC archive (legacy)**, never “OA folder”.

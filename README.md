@@ -128,11 +128,12 @@ Canonical board (always sync here): [Study_Guide/companies/README.md](Study_Guid
 | 45 | Aurigo | [Aurigo.md](Study_Guide/companies/tier_P_product/Aurigo.md) | done-v3 |
 | 46 | Turtlemint | [Turtlemint.md](Study_Guide/companies/tier_P_product/Turtlemint.md) | insufficient |
 | 47 | Supermoney | [Supermoney.md](Study_Guide/companies/tier_P_product/Supermoney.md) | done-v3 |
-| 48 | Fiorano | `Fiorano.md` | todo |
-| 49 | Redwood Software | `Redwood_Software.md` | todo |
-| 50 | ZL Tech | `ZL_Tech.md` | todo |
-| 51 | Omnicell | `Omnicell.md` | todo |
-| 52 | Wabtec | `Wabtec.md` | todo |
+| 48 | Fiorano | [Fiorano.md](Study_Guide/companies/tier_P_product/Fiorano.md) | done-v3 |
+| 49 | Redwood Software | [Redwood_Software.md](Study_Guide/companies/tier_P_product/Redwood_Software.md) | insufficient |
+| 50 | ZL Tech | [ZL_Tech.md](Study_Guide/companies/tier_P_product/ZL_Tech.md) | done-v3 |
+| 51 | Omnicell | [Omnicell.md](Study_Guide/companies/tier_P_product/Omnicell.md) | insufficient |
+| 52 | Wabtec | [Wabtec.md](Study_Guide/companies/tier_P_product/Wabtec.md) | insufficient |
+| 52b | Media.net | [Media_net.md](Study_Guide/companies/tier_P_product/Media_net.md) | done-v3 |
 
 
 ---
@@ -141,28 +142,28 @@ Canonical board (always sync here): [Study_Guide/companies/README.md](Study_Guid
 
 | # | Company | Suggested slug | Status |
 |---|---|---|---|
-| 53 | Accenture | `Accenture.md` | todo |
-| 54 | Infosys | `Infosys.md` | todo |
-| 55 | Axtria | `Axtria.md` | todo |
-| 56 | Quantium | `Quantium.md` | todo |
-| 57 | Pega Systems | `Pega_Systems.md` | todo |
-| 58 | SAI Group | `SAI_Group.md` | todo |
-| 59 | Zinnia | `Zinnia.md` | todo |
-| 60 | C-DAC | `CDAC.md` | todo |
-| 61 | Lumenci | `Lumenci.md` | todo |
-| 62 | Suhora | `Suhora.md` | todo |
-| 63 | Digantra | `Digantra.md` | todo |
-| 64 | Cynlr | `Cynlr.md` | todo |
-| 65 | Digit | `Digit.md` | todo |
-| 66 | Exovolt | `Exovolt.md` | todo |
-| 67 | Pacific Engineering | `Pacific_Engineering.md` | todo |
-| 68 | CBRE | `CBRE.md` | todo |
-| 69 | Schlumberger | `Schlumberger.md` | todo |
-| 70 | Becton Dickinson | `Becton_Dickinson.md` | todo |
-| 71 | TATA Technologies | `TATA_Technologies.md` | todo |
-| 72 | O9 Solutions | `O9_Solutions.md` | todo |
-| 73 | Tesco | `Tesco.md` | todo |
-| 74 | Fintech Blue Solutions | `Fintech_Blue_Solutions.md` | todo |
+| 53 | Accenture | [Accenture.md](Study_Guide/companies/tier_G_services/Accenture.md) | done-v3 |
+| 54 | Infosys | [Infosys.md](Study_Guide/companies/tier_G_services/Infosys.md) | done-v3 |
+| 55 | Axtria | [Axtria.md](Study_Guide/companies/tier_G_services/Axtria.md) | done-v3 |
+| 56 | Quantium | [Quantium.md](Study_Guide/companies/tier_G_services/Quantium.md) | insufficient |
+| 57 | Pega Systems | [Pega_Systems.md](Study_Guide/companies/tier_G_services/Pega_Systems.md) | done-v3 |
+| 58 | SAI Group | [SAI_Group.md](Study_Guide/companies/tier_G_services/SAI_Group.md) | insufficient |
+| 59 | Zinnia | [Zinnia.md](Study_Guide/companies/tier_G_services/Zinnia.md) | done-v3 |
+| 60 | C-DAC | [CDAC.md](Study_Guide/companies/tier_G_services/CDAC.md) | done-v3 |
+| 61 | Lumenci | [Lumenci.md](Study_Guide/companies/tier_G_services/Lumenci.md) | done-v3 |
+| 62 | Suhora | [Suhora.md](Study_Guide/companies/tier_G_services/Suhora.md) | insufficient |
+| 63 | Digantra | [Digantra.md](Study_Guide/companies/tier_G_services/Digantra.md) | insufficient |
+| 64 | Cynlr | [Cynlr.md](Study_Guide/companies/tier_G_services/Cynlr.md) | done-v3 |
+| 65 | Digit | [Digit.md](Study_Guide/companies/tier_G_services/Digit.md) | done-v3 |
+| 66 | Exovolt | [Exovolt.md](Study_Guide/companies/tier_G_services/Exovolt.md) | insufficient |
+| 67 | Pacific Engineering | [Pacific_Engineering.md](Study_Guide/companies/tier_G_services/Pacific_Engineering.md) | insufficient |
+| 68 | CBRE | [CBRE.md](Study_Guide/companies/tier_G_services/CBRE.md) | done-v3 |
+| 69 | Schlumberger | [Schlumberger.md](Study_Guide/companies/tier_G_services/Schlumberger.md) | done-v3 |
+| 70 | Becton Dickinson | [Becton_Dickinson.md](Study_Guide/companies/tier_G_services/Becton_Dickinson.md) | done-v3 |
+| 71 | TATA Technologies | [TATA_Technologies.md](Study_Guide/companies/tier_G_services/TATA_Technologies.md) | done-v3 |
+| 72 | O9 Solutions | [O9_Solutions.md](Study_Guide/companies/tier_G_services/O9_Solutions.md) | done-v3 |
+| 73 | Tesco | [Tesco.md](Study_Guide/companies/tier_G_services/Tesco.md) | done-v3 |
+| 74 | Fintech Blue Solutions | [Fintech_Blue_Solutions.md](Study_Guide/companies/tier_G_services/Fintech_Blue_Solutions.md) | insufficient |
 
 
 ---
@@ -171,9 +172,9 @@ Canonical board (always sync here): [Study_Guide/companies/README.md](Study_Guid
 
 | # | Company | Suggested slug | Status |
 |---|---|---|---|
-| 75 | Google | `Google.md` | todo |
-| 76 | Microsoft | `Microsoft.md` | todo |
-| 77 | Amazon | `Amazon.md` | todo |
+| 75 | Google | [Google.md](Study_Guide/companies/tier_F_faang_quant/Google.md) | done-v3 |
+| 76 | Microsoft | [Microsoft.md](Study_Guide/companies/tier_F_faang_quant/Microsoft.md) | done-v3 |
+| 77 | Amazon | [Amazon.md](Study_Guide/companies/tier_F_faang_quant/Amazon.md) | done-v3 |
 | 78 | Meta | `Meta.md` | todo |
 | 79 | Apple | `Apple.md` | todo |
 | 80 | Databricks | `Databricks.md` | todo |
