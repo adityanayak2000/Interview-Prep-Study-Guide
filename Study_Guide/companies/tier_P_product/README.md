@@ -1,5 +1,8 @@
 # 📦 Tier P — Product / Fintech / SaaS
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
+
 Canonical status board: [../README.md](../README.md).
 
 **How to use:** open a company → read Process / OA / Topic Weights → drill High-weight topics → day-before via [Boss Sheets](../../03_BOSS_SHEETS.md).

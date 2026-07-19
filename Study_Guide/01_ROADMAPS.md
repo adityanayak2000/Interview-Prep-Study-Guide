@@ -1,5 +1,7 @@
-# Roadmaps
+# 📅 Roadmaps
 _Aligned to ~4–6 hrs/day. Student status: OS done; DSA in progress; OOPs/DBMS/CN/HLD not started._
+
+> 🚪 [Start](START_HERE.md) · 🗺️ [Map](README.md) · 🏢 [Companies](companies/README.md) · 📚 [Library](library/README.md) · 🔍 [Find](FIND.md)
 
 Compensation / CTC are not published in this repository.  
 Library PDFs: [`../Interview_Prep_Resources_Context.md`](../Interview_Prep_Resources_Context.md) via [`00_INDEX.md`](00_INDEX.md).

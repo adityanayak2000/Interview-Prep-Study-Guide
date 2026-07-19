@@ -1,19 +1,24 @@
 # 🔍 FIND — How to search this repo
-_GitHub is the primary UX. Use these queries instead of scrolling the whole tree._
+
+> 🚪 [Start](START_HERE.md) · 🗺️ [Map](README.md) · 🏢 [Companies](companies/README.md) · 📚 [Library](library/README.md) · 🔍 [Find](FIND.md)
+
+GitHub is the primary UX. Prefer these queries over scrolling the whole tree.
+
+---
 
 ## Three search tools
 
 | Tool | How | Best for |
 |---|---|---|
-| **Code search** | Repo page → search box (or `/`) → choose **Code** | Words inside files (`OS MCQ`, `Boss Sheet`) |
-| **File finder** | Press `t` on the repo | Jump to `OS.md`, `Qualcomm.md` by filename |
-| **In-file find** | Open a file → browser/editor Find | Scan one long topic |
+| **Code search** | Repo search box → **Code** | Words inside files (`OS MCQ`, `Boss Sheet`) |
+| **File finder** | Press `t` | Jump to `OS.md`, `Qualcomm.md` |
+| **In-file find** | Browser Find on one page | Long topic pages |
 
-Always scope with `path:Study_Guide` when you only want strategy pages.
+Scope strategy with `path:Study_Guide`.
+
+---
 
 ## Copy-paste queries
-
-Paste into GitHub code search (repo: `adityanayak2000/Interview-Prep-Study-Guide`):
 
 ```text
 OS MCQ path:Study_Guide
@@ -39,27 +44,19 @@ Resource Panel path:Study_Guide/topics
 LC archive path:Study_Guide
 ```
 
-```text
-filename:START_HERE.md
-```
+---
 
 ## Where things live
 
-| Looking for… | Go here |
+| Looking for… | Go |
 |---|---|
-| Junior landing | [START_HERE.md](START_HERE.md) |
-| All companies + status | [companies/README.md](companies/README.md) |
-| OS MCQ PDF | [library/OS_Systems_PDFs.md](library/OS_Systems_PDFs.md) |
-| Boss Sheet PDFs | [library/Boss_Sheets.md](library/Boss_Sheets.md) |
-| Full TOC | [SUMMARY.md](SUMMARY.md) |
-| Curated link registry | [00_INDEX.md](00_INDEX.md) |
-| Deep library dump | [`Interview_Prep_Resources_Context.md`](../Interview_Prep_Resources_Context.md) |
+| 🚪 Landing | [START_HERE.md](START_HERE.md) |
+| 🏢 All companies | [companies/README.md](companies/README.md) |
+| 🧠 OS MCQ PDF | [library/OS_Systems_PDFs.md](library/OS_Systems_PDFs.md) |
+| 📋 Boss Sheets | [library/Boss_Sheets.md](library/Boss_Sheets.md) |
+| 📑 Full TOC | [SUMMARY.md](SUMMARY.md) |
+| 📎 Link registry | [00_INDEX.md](00_INDEX.md) |
 
-## Status badges
+Statuses: `✅ done-v3` · `⚠️ insufficient` (do not invent OA).
 
-- `✅ done-v3` — researched company / topic guide  
-- `⚠️ insufficient` — thin public data; still has Search log — **do not invent OA**
-
-## See also
-
-- [🚪 START HERE](START_HERE.md) · [📚 Library](library/README.md) · [💬 Feedback](../FEEDBACK.md)
+💬 [Feedback](../FEEDBACK.md)

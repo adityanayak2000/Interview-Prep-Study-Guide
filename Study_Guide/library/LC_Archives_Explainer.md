@@ -1,4 +1,7 @@
 # 📦 LC archives explained
+
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](README.md) · 🔍 [Find](../FIND.md)
+
 _Company Drive folders in the Interview Prep library are practice packs — not online assessments._
 
 ## Why

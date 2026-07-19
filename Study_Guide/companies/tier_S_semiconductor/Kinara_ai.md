@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Kinara (Ara edge AI processors + SDK) hires SW, HW, and systems roles primarily via careers/referrals. Public postings skew **experienced** (often 4+ YoE). Campus OA packs not published on GFG; treat as referral/JD-driven interviews.
 

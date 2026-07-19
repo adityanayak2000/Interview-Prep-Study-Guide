@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Common SWE-leaning shape: **written/aptitude + CS MCQ screen → technical interview(s) with senior engineers → optional take-home/live coding (3–5 hr in some pipelines) → HR/culture**. CBRE spans many non-SWE businesses — confirm the India tech role before specializing.
 

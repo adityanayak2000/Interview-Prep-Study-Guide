@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Human Powered Health Technologies (Hyderabad GCC for US sports-science / health AI product) posts roles through Quess IT Staffing (`hph@quesscorp.com` style). Mix of product engineering and clinical ops hiring. **No campus OA corpus** for CS freshers found; not a classic semiconductor OA target — listed on checklist for completeness.
 

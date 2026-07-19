@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 No usable interview-experience content found on GeeksforGeeks, LeetCode Discuss, or Glassdoor India. Searches mainly hit unrelated name collisions (Exowatt, Exotel, ExxonMobil, Exicom). Confirm exact legal name/city before further research.
 

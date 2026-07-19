@@ -3,6 +3,8 @@
 **Tier:** F  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 - Online coding round (1-2 questions)
 - Technical Interview 1 — DSA + fundamentals

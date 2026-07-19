@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Resume shortlist → 2 technical interviews → HR. Public GFG volume is thinner/older (internship-heavy); confirm year’s OA with placement cell.
 

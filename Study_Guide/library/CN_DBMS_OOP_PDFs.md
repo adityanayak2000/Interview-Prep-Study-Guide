@@ -1,4 +1,7 @@
 # 🏗️ CN / DBMS / OOP PDFs
+
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](README.md) · 🔍 [Find](../FIND.md)
+
 _Software-track fundamentals packs. Links only._
 
 ## Why

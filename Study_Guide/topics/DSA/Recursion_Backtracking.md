@@ -1,6 +1,8 @@
 # Recursion & Backtracking
 _Subsets · Permutations · Combination sum · Boards / N-Queens_
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../../companies/README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 **Related:** [DSA Overview](00_DSA_Overview.md) · [Dynamic_Programming](Dynamic_Programming.md) · [Bit_Manipulation](Bit_Manipulation.md) (bitmask subsets)
 
 ---

@@ -3,6 +3,8 @@
 **Tier:** P  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Not enough verified, India-specific SWE data to describe a confident hiring loop. Public traces point mainly at a global Glassdoor page (direct fetch blocked during research) and non-SWE India listings. Do **not** treat second-hand search summaries as a confirmed campus process.
 

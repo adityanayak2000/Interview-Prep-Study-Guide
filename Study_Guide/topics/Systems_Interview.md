@@ -1,4 +1,7 @@
 # Systems Interview — Spine
+
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](../library/README.md) · 🔍 [Find](../FIND.md)
+
 **Tier S semiconductor / firmware / systems software track**
 
 This file is a **navigation spine**, not a textbook. Full Top-100 question text lives in `🎯 Interview Prep Resources.md` → **Systems Resources / Top 100 System Interview Questions**. Strategy depth lives in the linked topic files.

@@ -1,8 +1,11 @@
-# Summary
+# 📑 Summary
+
+> 🚪 [Start](START_HERE.md) · 🗺️ [Map](README.md) · 🏢 [Companies](companies/README.md) · 📚 [Library](library/README.md) · 🔍 [Find](FIND.md)
+
 
 Human TOC for GitHub browsing (optional future docs tools). Source of truth remains this markdown tree.
 
-## Start
+## 🚪 Start
 * [Start here](START_HERE.md)
 * [Study Guide README](README.md)
 * [How to search (FIND)](FIND.md)
@@ -11,11 +14,11 @@ Human TOC for GitHub browsing (optional future docs tools). Source of truth rema
 * [Topic × Company Matrix](02_TOPIC_COMPANY_MATRIX.md)
 * [Boss Sheets](03_BOSS_SHEETS.md)
 
-## Tracks
+## 🧭 Tracks
 * [Semiconductor / Systems](archetypes/Semiconductor_Systems.md)
 * [Software / Product SDE](archetypes/Software_Product_SDE.md)
 
-## Library
+## 📚 Library
 * [Library portal](library/README.md)
 * [Boss Sheets (PDFs)](library/Boss_Sheets.md)
 * [OS / Systems PDFs & MCQs](library/OS_Systems_PDFs.md)
@@ -23,14 +26,14 @@ Human TOC for GitHub browsing (optional future docs tools). Source of truth rema
 * [DSA pattern hubs](library/DSA_Pattern_Hubs.md)
 * [LC archives explained](library/LC_Archives_Explainer.md)
 
-## Topics — Systems
+## 🧠 Topics — Systems
 * [Systems Interview spine](topics/Systems_Interview.md)
 * [Operating Systems](topics/OS.md)
 * [Concurrency](topics/Concurrency_Multithreading.md)
 * [C++ Fundamentals](topics/Cpp_Fundamentals.md)
 * [YC C++ / OS / Concurrency Roadmap](topics/YC_Cpp_OS_Concurrency_Roadmap.md)
 
-## Topics — DSA
+## 🧮 Topics — DSA
 * [DSA Overview](topics/DSA/00_DSA_Overview.md)
 * [STL Quick Reference](topics/DSA/STL/00_STL_Quick_Reference.md)
 * [STL Containers](topics/DSA/STL/01_Containers.md)
@@ -47,16 +50,16 @@ Human TOC for GitHub browsing (optional future docs tools). Source of truth rema
 * [Sorting & Greedy](topics/DSA/Sorting.md)
 * [Bit Manipulation](topics/DSA/Bit_Manipulation.md)
 
-## Topics — Software
+## 🏗️ Topics — Software
 * [OOPs & LLD](topics/OOPs_LLD.md)
 * [DBMS & SQL](topics/DBMS_SQL.md)
 * [Computer Networks](topics/Computer_Networks.md)
 * [System Design HLD](topics/System_Design_HLD.md)
 
-## Companies
+## 🏢 Companies
 * [Status board (canonical)](companies/README.md)
 
-### Tier S — Semiconductor / Systems
+### 🔬 Tier S — Semiconductor / Systems
 * [Tier index](companies/tier_S_semiconductor/README.md)
 * [Qualcomm](companies/tier_S_semiconductor/Qualcomm.md)
 * [Texas Instruments](companies/tier_S_semiconductor/Texas_Instruments.md)
@@ -81,7 +84,7 @@ Human TOC for GitHub browsing (optional future docs tools). Source of truth rema
 * [Kinara.ai](companies/tier_S_semiconductor/Kinara_ai.md)
 * [Human Powered Health – Quess Corp](companies/tier_S_semiconductor/Human_Powered_Health_Quess.md)
 
-### Tier P — Product / Fintech / SaaS
+### 📦 Tier P — Product / Fintech / SaaS
 * [Tier index](companies/tier_P_product/README.md)
 * [Cred](companies/tier_P_product/Cred.md)
 * [Flipkart (SDE)](companies/tier_P_product/Flipkart.md)
@@ -115,7 +118,7 @@ Human TOC for GitHub browsing (optional future docs tools). Source of truth rema
 * [Wabtec](companies/tier_P_product/Wabtec.md)
 * [Media.net](companies/tier_P_product/Media_net.md)
 
-### Tier G — Services / Analytics / Niche
+### 🧰 Tier G — Services / Analytics / Niche
 * [Tier index](companies/tier_G_services/README.md)
 * [Accenture](companies/tier_G_services/Accenture.md)
 * [Infosys](companies/tier_G_services/Infosys.md)
@@ -140,7 +143,7 @@ Human TOC for GitHub browsing (optional future docs tools). Source of truth rema
 * [Tesco](companies/tier_G_services/Tesco.md)
 * [Fintech Blue Solutions](companies/tier_G_services/Fintech_Blue_Solutions.md)
 
-### Tier F — FAANG+ / Quant / Bank peers
+### 🚀 Tier F — FAANG+ / Quant / Bank peers
 * [Tier index](companies/tier_F_faang_quant/README.md)
 * [Google](companies/tier_F_faang_quant/Google.md)
 * [Microsoft](companies/tier_F_faang_quant/Microsoft.md)
@@ -169,6 +172,6 @@ Human TOC for GitHub browsing (optional future docs tools). Source of truth rema
 * [Tata Steel](companies/tier_F_faang_quant/Tata_Steel.md)
 * [Volvo / BPCL](companies/tier_F_faang_quant/Volvo_BPCL.md)
 
-## Contribute / Feedback
+## 💬 Contribute / Feedback
 * [Legacy README](_legacy/README.md)
 * [FEEDBACK (repo root)](../FEEDBACK.md)

@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 India-tagged Glassdoor reviews show a loose skeleton of **OA/case → 1–2 technical/case rounds → cultural/HR**, but shapes differ by role (Associate DS vs Cloud vs DS vs Mumbai multi-stage). Official Graduate Academy pages confirm Analytics and Engineering streams without a sourced campus round breakdown. No GFG or LeetCode Discuss process write-ups were found — **not enough for a confident OA/round template**.
 

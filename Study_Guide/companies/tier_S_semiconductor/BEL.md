@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 PSU-style: written/GATE-like or aptitude+domain test → document verification → technical(+HR) panel. Strict punctuality and document checks. CS panels grill OS, DBMS, programming favorites + projects.
 

@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 **super.money** (Flipkart Group fintech; Bengaluru) runs a **machine-coding-first** loop. Campus intake is mainly via **Flipkart Early Careers internship → conversion**, not a standalone mass campus OA on GFG. Spelling variants: Super.Money, SuperMoney, supermoney.
 

@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Less standardized than Qualcomm/TI. Campus software paths may shortlist on resume then interview on Teams; trainee/core tracks use long written tests; experienced software loops often run 3–4 technical rounds and sometimes a take-home after an early screen. Expect earlier system-design / cohesion–coupling talk than at pure firmware MCQ companies.
 

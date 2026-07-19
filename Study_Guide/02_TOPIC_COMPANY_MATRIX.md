@@ -1,5 +1,7 @@
-# Topic × Company Matrix — Tier S
+# 🗂️ Topic × Company Matrix — Tier S
 _Weights copied from company Topic Weights tables. H = High, M = Med, L = Low, — = None. Insufficient-status firms still listed with inferred weights marked `*`._
+
+> 🚪 [Start](START_HERE.md) · 🗺️ [Map](README.md) · 🏢 [Companies](companies/README.md) · 📚 [Library](library/README.md) · 🔍 [Find](FIND.md)
 
 **How to use:** Pick a company → scan its High columns → open only those topic files under [`topics/`](topics/).
 

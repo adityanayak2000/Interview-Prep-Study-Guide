@@ -1,6 +1,8 @@
 # Dynamic Programming
 _1D · Knapsack-style · LIS/LCS · Grid · Subsequences_
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../../companies/README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 **Related:** [DSA Overview](00_DSA_Overview.md) · [Recursion_Backtracking](Recursion_Backtracking.md) · [Arrays_Strings](Arrays_Strings.md) · [Software_Product_SDE](../../archetypes/Software_Product_SDE.md)
 
 ---

@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Aptitude/technical CBT (GradeMe historically) → multiple technical rounds (C/pointers/OS/DBMS/web basics) → HR / senior manager.
 

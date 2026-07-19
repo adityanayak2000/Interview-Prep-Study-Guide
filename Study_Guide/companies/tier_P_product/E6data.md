@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 E6data builds a **lakehouse / distributed SQL compute engine** (Bengaluru hybrid). Public GFG/LeetCode Discuss/Glassdoor campus write-ups are **thin**. Strongest process signals are the **company-authored Engine JD rubric** and **campus-adjacent competitive-programming** funnels (e.g. PES Algomania). BITS-like profiles often enter via **internship → FTE conversion** rather than a mass GFG-style campus OA.
 

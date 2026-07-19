@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Classic SRIB campus loop: brutal coding OA (often **all hidden TCs** / no STL on Samsung platform) → 2 technical interviews → HR. Graphs, DP, backtracking, and linked-list live coding recur.
 

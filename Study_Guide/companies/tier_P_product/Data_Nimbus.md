@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 DataNimbus (data platform / Databricks-adjacent engineering) hires small campus cohorts in India (Hyderabad / Bengaluru / Chennai). Public process detail is strongest from **BITS Hyderabad Placement Chronicles** and college CDC circulars — not GFG/LeetCode Discuss.
 

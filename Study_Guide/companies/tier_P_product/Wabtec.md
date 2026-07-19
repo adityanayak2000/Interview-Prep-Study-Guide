@@ -3,6 +3,8 @@
 **Tier:** P  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Sparse but real India signals: **online test → 1–2 technical rounds → managerial → HR** appears across a 2020 GFG embedded on-campus account and a Bengaluru Glassdoor SWE note. Sample size is too small and dated for `done-v3`; treat OA sectioning below as a **single 2020 data point**, not current policy.
 

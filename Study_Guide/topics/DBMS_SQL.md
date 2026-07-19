@@ -1,4 +1,7 @@
 # DBMS & SQL (router)
+
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](../library/README.md) · 🔍 [Find](../FIND.md)
+
 **Software / Product track** · Also High at [TI](../companies/tier_S_semiconductor/Texas_Instruments.md), [BEL](../companies/tier_S_semiconductor/BEL.md)
 
 ## Why it matters

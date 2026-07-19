@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Centre for Development of Advanced Computing runs **two distinct pipelines that must not be mixed**:
 

@@ -3,6 +3,8 @@
 **Tier:** F  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 - On-campus: online round (aptitude + technical MCQs + 2 coding Qs), steep shortlist
 - Technical interview rounds (2-3): DSA-heavy + CS fundamentals (OS/DBMS/OOP) grilling

@@ -1,5 +1,8 @@
-# Study Guide — Index & Link Registry
+# 📎 Study Guide — Index & Link Registry
 _M.E./M.Tech CS | BITS Pilani | v4 hygiene (strategy-first)_
+
+
+> 🚪 [Start](START_HERE.md) · 🗺️ [Map](README.md) · 🏢 [Companies](companies/README.md) · 📚 [Library](library/README.md) · 🔍 [Find](FIND.md)
 
 **→ Juniors: [🚪 START HERE](START_HERE.md)** · **[🔍 FIND](FIND.md)** · **[📚 Library](library/README.md)**
 

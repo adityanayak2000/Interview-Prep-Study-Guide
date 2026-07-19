@@ -1,6 +1,8 @@
 # Arrays & Strings
 _Sliding Window · Two Pointers · Hash / Prefix · Highest volume for Software track_
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../../companies/README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 **Related:** [DSA Overview](00_DSA_Overview.md) · [Binary Search](Binary_Search.md) · [Sorting](Sorting.md) · [Software_Product_SDE](../../archetypes/Software_Product_SDE.md)
 
 ---

@@ -1,6 +1,9 @@
 # 🏢 Companies — Status Board (canonical)
 _Source of truth for company coverage. Tiers S–G–F researched (#1–100 + Media.net)._
 
+
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](../library/README.md) · 🔍 [Find](../FIND.md)
+
 **How to use:** pick a tier below → open a company file → follow Topic Weights → day-before via [Boss Sheets](../library/Boss_Sheets.md). Juniors: start at [🚪 START HERE](../START_HERE.md).
 
 | Tier | Browse |

@@ -3,6 +3,8 @@
 **Tier:** F  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 - Online screening/coding test
 - 2-3 technical rounds (C++, DSA, OS, CN, probability/puzzles)

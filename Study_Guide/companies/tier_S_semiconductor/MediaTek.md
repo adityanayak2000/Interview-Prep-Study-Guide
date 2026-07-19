@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 On-campus India drives commonly use a CoCubes (or similar) online assessment, then two technical interviews and HR. Round count varies (about 2–5 total after OA). Software tracks stress OS concurrency, endianness/bits, and linked-list/stack DSA more than product-company Hard algorithms.
 

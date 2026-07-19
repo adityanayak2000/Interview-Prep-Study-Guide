@@ -1,6 +1,9 @@
 # 📋 Boss Sheets — Index
 _Day-before drills live as footers inside topic files. This index is navigation only._
 
+
+> 🚪 [Start](START_HERE.md) · 🗺️ [Map](README.md) · 🏢 [Companies](companies/README.md) · 📚 [Library](library/README.md) · 🔍 [Find](FIND.md)
+
 **PDF pack (one click):** [library/Boss_Sheets.md](library/Boss_Sheets.md) · **OS MCQs:** [library/OS_Systems_PDFs.md](library/OS_Systems_PDFs.md) · **Library portal:** [library/README.md](library/README.md)
 
 | Topic | Jump to Boss Sheet section |

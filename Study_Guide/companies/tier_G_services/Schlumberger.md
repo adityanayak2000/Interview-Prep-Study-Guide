@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Typical campus-leaning path: CGPA/CS shortlist → **online assessment (Java theory + code-output + coding)** → two technical rounds → TCM/manager + HR; some pipelines include Group Discussion.
 

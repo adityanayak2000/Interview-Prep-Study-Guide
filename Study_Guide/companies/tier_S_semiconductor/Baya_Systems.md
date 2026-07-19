@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Series-B semiconductor IP company (WeaveIP / unified fabric for SoCs & chiplets). Appears on elite campus shortlists (IITs) for SWE and HW roles, but **no public OA/interview write-ups** with section maps were found. Prep from JD: systems SW + interconnect/architecture literacy.
 

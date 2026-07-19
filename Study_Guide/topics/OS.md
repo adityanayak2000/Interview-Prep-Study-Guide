@@ -1,6 +1,8 @@
 # Operating Systems
 _M.E. CS interview core · Tier S semiconductor filter_
 
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](../library/README.md) · 🔍 [Find](../FIND.md)
+
 ## Why it matters
 Semiconductor / systems companies treat OS as a hard filter — whiteboard paging walks, scheduling numericals, and Producer-Consumer code. High weight at:
 

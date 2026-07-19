@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Sophos (cybersecurity) India hiring is **off-campus–heavy** with **selective campus visits**. Bengaluru / Hyderabad hubs; remote-first common. Not a regular mass recruiter at BITS placement lists — ME candidates should treat **careers + LinkedIn** as the primary path.
 

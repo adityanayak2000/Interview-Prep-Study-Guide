@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Round count is **not fixed** (reports span ~3–6 stages), but the recurring campus skeleton is **OA → 2 technical rounds → senior/managerial (± director) → HR**. Older delivery-track campus accounts and off-campus UI referral loops can look shorter. Group Discussion: not found.
 

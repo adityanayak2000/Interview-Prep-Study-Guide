@@ -5,6 +5,8 @@
 
 **Status note:** Ambiguous pairing on the master list. Volvo Group India public SWE/IT data is thin (`insufficient` bar for Volvo). BPCL has moderate corroborated process detail (`done-v3`-quality for BPCL alone). Combined file status = **insufficient** overall so Volvo is not oversold; use the BPCL sections confidently.
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 **Volvo Group India**
 - Online written test (aptitude+reasoning+CS fundamentals+1 coding Q) → separate coding round (DSA+strings) in some pipelines → technical interview (Java/Microservices/Spring Boot for backend-adjacent, or microcontrollers/RTOS for embedded) → HR interview. One report describes a 3-stage flow (online → F2F → final w/ MD) for a specific/senior track.

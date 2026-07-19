@@ -1,4 +1,7 @@
 # 🧮 DSA pattern hubs
+
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](README.md) · 🔍 [Find](../FIND.md)
+
 _External pattern maps + a few cheatsheets. Do not copy LC lists into this repo._
 
 ## Why

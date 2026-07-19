@@ -5,6 +5,8 @@
 
 _Caveat: India-specific sample is thinner than global Capital One process write-ups — treat global defaults cautiously._
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 - Online assessment (CodeSignal GCA)
 - Technical interview(s) — sometimes project/resume deep-dive rather than pure coding (India campus)

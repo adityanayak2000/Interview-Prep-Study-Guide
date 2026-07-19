@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Reported shapes include **written MCQ (DSA/OOP/OS/aptitude/cognitive/English) → MS Teams technical (often 2 interviewers)** and alternate pipelines with HR screen → LeetCode-style coding → behavioral panel (~45 min/round; ~2 weeks end-to-end virtual).
 

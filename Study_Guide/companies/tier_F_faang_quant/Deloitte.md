@@ -5,6 +5,8 @@
 
 _Caveat: **HashedIn by Deloitte** is a distinct product-engineering sub-brand with its own harder DSA loop — do not assume USI Analyst == HashedIn._
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 - National Level Assessment (NLA) — combined aptitude + coding OA
 - Versant test (spoken English, India-specific)

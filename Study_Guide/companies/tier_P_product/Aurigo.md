@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Aurigo (capital planning / construction SaaS; Bengaluru & Mysuru R&D) hires from **BITS Goa, BITS Hyderabad, NIT Trichy** and others (press release). Public **SDE campus OA/round maps are thin**; best campus write-up is Associate BA. Off-campus experienced path includes **AuriCodeCrafters** hackathon (DoSelect). Stack is **Microsoft / .NET**-centric.
 

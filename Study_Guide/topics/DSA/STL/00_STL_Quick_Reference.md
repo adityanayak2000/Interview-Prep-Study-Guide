@@ -1,5 +1,7 @@
 # STL Quick Reference (day-before)
 
+> 🚪 [Start](../../../START_HERE.md) · 🗺️ [Map](../../../README.md) · 🏢 [Companies](../../../companies/README.md) · 📚 [Library](../../../library/README.md) · 🔍 [Find](../../../FIND.md)
+
 **Source:** [Striver-TUF-Plus / STL](https://github.com/adityanayak20/Striver-TUF-Plus/tree/main/STL) (`stl.txt` + container drills) · Full notes: [01_Containers](01_Containers.md) · [02_Algorithms](02_Algorithms_Comparators.md)
 
 > Some campus OAs (esp. Samsung-style) are **no-STL**. Confirm the platform rules before relying on these.

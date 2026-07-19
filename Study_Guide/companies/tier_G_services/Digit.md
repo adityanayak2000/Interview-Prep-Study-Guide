@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Go Digit General Insurance (not unrelated “Digit” products). Typical virtual campus loop: **online aptitude + coding → 1–2 technical interviews (senior + scenario/PM) → offer**, often finished within about a week on MS Teams.
 

@@ -3,6 +3,8 @@
 **Tier:** F  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Leaner than Google/Amazon for many campus reports: **OA (hard gate) → 2 technical interviews (± HR)**. Most eliminations happen at OA. Later rounds blend DSA with resume/project discussion and communication.
 

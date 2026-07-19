@@ -3,6 +3,8 @@
 **Tier:** P  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Highly selective campus loop: **proctored offline OA at college → 2 algorithm/technical interviews → managerial**. Roughly 3–4 rounds; funnels can shortlist only a tiny fraction past R2. Reputation across independent accounts is **Google/CP-hard**, not average campus DSA. Behavioral/LP culture stages are minimal vs Amazon — managerial is lighter resume/fit.
 

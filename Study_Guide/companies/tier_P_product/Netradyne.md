@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Netradyne (fleet AI / computer vision / edge) hires in **Bengaluru** (and cloud roles also Chennai). Campus loops are **role-family dependent** — cloud/backend, SDE-1, and embedded/CV are not the same funnel.
 

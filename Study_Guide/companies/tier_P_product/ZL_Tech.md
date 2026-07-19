@@ -3,6 +3,8 @@
 **Tier:** P  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 India campus reports converge on a multi-stage loop: **speed aptitude → online coding OA → live coding technical → second technical (language + SQL + projects)** with HR conversations interleaved rather than a single fixed last stage.
 

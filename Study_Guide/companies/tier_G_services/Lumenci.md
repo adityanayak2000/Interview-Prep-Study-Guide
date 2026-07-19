@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Patent analytics / IP strategy consulting (Gurugram HQ). Typical shape: **resume screen → online assessment → 1–3 technical/assessment rounds (resume-heavy) → HR** (± director for senior). A short video assignment appears in one GFG campus account and is not universal. US/Gurgaon Glassdoor variants use phone screen + take-home + multi technical.
 

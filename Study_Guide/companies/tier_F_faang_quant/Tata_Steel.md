@@ -3,6 +3,8 @@
 **Tier:** F  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 - Resume/CGPA shortlisting (off-campus AEP or on-campus MT drives)
 - Written/online test (aptitude + technical + LR sections)

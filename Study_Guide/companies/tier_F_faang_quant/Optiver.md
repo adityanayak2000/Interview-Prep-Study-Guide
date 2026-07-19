@@ -5,6 +5,8 @@
 
 _Caveat: Mostly global/US process data; India-specific corroboration is thinner than FAANG peers._
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 - Online assessment (OA)
 - HR/behavioral round

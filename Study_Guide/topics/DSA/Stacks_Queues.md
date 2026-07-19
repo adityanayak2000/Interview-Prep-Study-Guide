@@ -1,6 +1,8 @@
 # Stacks & Queues
 _Monotonic stack/queue · Next greater · Valid parentheses · Sliding window max_
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../../companies/README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 **Related:** [DSA Overview](00_DSA_Overview.md) · [Arrays_Strings](Arrays_Strings.md) · [Heaps](Heaps.md)
 
 ---

@@ -1,6 +1,8 @@
 # Sorting & Greedy
 _Sort then scan · Intervals · Custom comparators · Greedy choice_
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../../companies/README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 **Related:** [DSA Overview](00_DSA_Overview.md) · [Arrays_Strings](Arrays_Strings.md) · [Binary_Search](Binary_Search.md) · [Heaps](Heaps.md)
 
 > **Greedy** lives here: interval scheduling, sort+scan, and “prove local choice” problems. Overview points here as primary discuss home.

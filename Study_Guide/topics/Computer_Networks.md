@@ -1,4 +1,7 @@
 # Computer Networks (router)
+
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](../library/README.md) · 🔍 [Find](../FIND.md)
+
 **Software / Product track** · Med–High weight at networking-adjacent roles (Cisco, Netskope, Sophos); appears in some IBM/product rounds.
 
 ## Why it matters

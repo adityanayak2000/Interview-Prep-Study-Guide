@@ -3,6 +3,8 @@
 **Tier:** F  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 - Online Assessment — coding + debugging
 - Technical round 1 — projects, DBMS, OOP, coding

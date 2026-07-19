@@ -1,4 +1,7 @@
-# Archetype — Semiconductor / Systems
+# 🔬 Archetype — Semiconductor / Systems
+
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](../library/README.md) · 🔍 [Find](../FIND.md)
+
 **Use when targeting Tier S:** Qualcomm, TI, MediaTek, AMD, Arm, Micron, WD, Intel, Infineon, Microchip, Silicon Labs, Realtek, NVIDIA, Samsung R&D, Bosch, BEL, plus thin-data fabs/startups.
 
 Entry hub: [`../companies/README.md`](../companies/README.md) · Matrix: [`../02_TOPIC_COMPANY_MATRIX.md`](../02_TOPIC_COMPANY_MATRIX.md)

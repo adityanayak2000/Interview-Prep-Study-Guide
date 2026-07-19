@@ -3,6 +3,8 @@
 **Tier:** F  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Common fresher path: **OA (MCQ/coding + Work Style Assessment) → telephonic/technical → 2–4 F2F loops** (~5–6 rounds total). **Leadership Principles** are woven through essentially every round (STAR stories), not parked only at HR — the defining differentiator vs Google/Microsoft fresher loops.
 

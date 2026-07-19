@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Typical India campus flow: HirePro (or WeCP for some intern drives) computer-based test → 1–2 technical interviews → HR. Embedded Software is commonly open to CSE/MnC; analog/digital roles skew ECE/EEE. Accuracy on the MCQ OA matters more than attempting every question.
 

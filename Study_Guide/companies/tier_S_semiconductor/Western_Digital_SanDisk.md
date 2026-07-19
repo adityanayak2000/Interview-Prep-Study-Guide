@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 OA (~45–60 min, often Codility/similar with negative marking) → 3–5 rounds: technical (C/OS/COA/pointers), managerial, HR. Branding may appear as Western Digital or SanDisk by year.
 

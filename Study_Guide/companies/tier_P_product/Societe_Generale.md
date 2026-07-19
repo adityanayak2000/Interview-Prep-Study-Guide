@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Société Générale **Global Solution Centre (SG GSC)** India (Bengaluru primary, Chennai) runs a consistent banking-IT SWE pipeline: **HirePro OA → technical(s) → hiring manager → HR**. Official young-graduates FAQ confirms a **4-round elimination** shape; campus reports often show **two technicals**.
 

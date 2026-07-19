@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Public India campus OA packs are thin; most detailed write-ups are Taiwan (Hsinchu) campus/new-grad loops: multi-department first interviews → second round → offer. Software/system tracks emphasize whiteboard/linked-list coding, C efficiency, and OS/RTOS concepts. Bengaluru FAE and partner hiring also appear — treat process as **department-dependent**.
 

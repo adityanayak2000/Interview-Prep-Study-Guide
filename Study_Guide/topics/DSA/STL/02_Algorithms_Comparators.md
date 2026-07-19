@@ -1,5 +1,7 @@
 # STL Algorithms & Comparators
 
+> 🚪 [Start](../../../START_HERE.md) · 🗺️ [Map](../../../README.md) · 🏢 [Companies](../../../companies/README.md) · 📚 [Library](../../../library/README.md) · 🔍 [Find](../../../FIND.md)
+
 Paraphrased from [Striver-TUF-Plus STL / 12. Algorithms](https://github.com/adityanayak20/Striver-TUF-Plus/tree/main/STL/12.%20Algorithms). Prefer writing the repo `.cpp` drills once; keep this for recall.
 
 Headers you’ll name in interviews: `<algorithm>`, `<numeric>` (`accumulate`), `<functional>` (`greater<>`).

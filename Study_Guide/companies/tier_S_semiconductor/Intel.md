@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Often resume/CGPA shortlist then 2–3 technical rounds + HR. Some older drives used eLitmus. Strong preference for C/C++ or Python over Java for many Intel software teams.
 

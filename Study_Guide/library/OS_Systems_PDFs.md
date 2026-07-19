@@ -1,4 +1,7 @@
 # 🧠 OS / Systems PDFs & MCQs
+
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](README.md) · 🔍 [Find](../FIND.md)
+
 _Operating systems packs most semiconductor / systems OAs care about. Links only — study the topic file for concepts._
 
 ## Why

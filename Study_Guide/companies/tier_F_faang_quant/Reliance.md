@@ -5,6 +5,8 @@
 
 _Caveat: Public interview accounts are primarily **Jio Platforms Limited**, not Reliance Industries corporate / Retail broadly._
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 - Pre-placement talk (campus drives)
 - Online aptitude + coding round

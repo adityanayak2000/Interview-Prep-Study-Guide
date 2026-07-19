@@ -1,5 +1,7 @@
 # YC C++ / OS / Concurrency Roadmap
 
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](../library/README.md) · 🔍 [Find](../FIND.md)
+
 Curated deep-links from [Yu-Cheng (Morton) Kuo — Contents](https://yc-kuo.medium.com/contents-e8eedc905fa) (**§1 CS → 1–1 C/C++** and **1–4 Operating Systems**).  
 Use alongside in-repo topics; this page is a **link map**, not a paste of Medium bodies.
 

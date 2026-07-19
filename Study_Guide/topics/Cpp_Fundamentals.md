@@ -1,6 +1,8 @@
 # C++ Fundamentals
 _M.E. CS interview core · semiconductor / embedded filter_
 
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](../library/README.md) · 🔍 [Find](../FIND.md)
+
 ## Why it matters
 HirePro / CoCubes OAs at Tier S are **code-output heavy**: pointers, `sizeof`, `volatile`/`static`/`extern`, struct padding, light C++ (virtual, RAII). Interviews add whiteboard memory layout, Rule of Five, `atomic` vs `volatile`. High weight at:
 

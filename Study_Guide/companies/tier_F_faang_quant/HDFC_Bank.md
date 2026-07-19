@@ -5,6 +5,8 @@
 
 _Caveat: Distinct from pre-merger HDFC Ltd. Process lean relies partly on aggregator write-ups over dense GFG-native SDE threads._
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 - Online aptitude test
 - Technical/coding interview (sometimes MS Teams w/ HackerRank-style pad)

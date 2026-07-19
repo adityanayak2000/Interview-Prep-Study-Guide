@@ -3,6 +3,8 @@
 **Tier:** P  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 
 **How this differs from Flipkart SDE:** The SDE track is built around a proctored **DSA online assessment** (often SHL, ~90 minutes, 2–3 coding problems), a signature **machine-coding** round, and DSA-heavy technical interviews. The **Data Scientist** track documented by Flipkart Careers does **not** describe that OA or machine-coding path. Instead it is **CV-driven**, then recruiter/HM screening, a technical phone screen, and multi-hour **presentation + hands-on modeling + depth rounds** on ML math and e-commerce case studies. Treat **ML Engineer** as a related but distinct lane: secondary reports often mention SQL/statistics screening and some DSA, closer to SDE than to the official DS loop — confirm the exact track on your invite.

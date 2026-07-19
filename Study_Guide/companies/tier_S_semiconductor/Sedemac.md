@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 IIT/campus reports (IIT KGP Foresight etc.): Online assessment → 2–3 technical interviews (often process-over-answer, multi-domain: circuits, mechanics, aptitude, light coding) → HR. Engineering-dominated culture; unstable “MBA/US MS soon” answers hurt HR.
 

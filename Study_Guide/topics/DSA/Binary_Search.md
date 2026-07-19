@@ -1,6 +1,8 @@
 # Binary Search
 _Classic sorted search · Binary search on answer · Rotated / bounds_
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../../companies/README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 **Related:** [DSA Overview](00_DSA_Overview.md) · [Arrays_Strings](Arrays_Strings.md) · [Sorting](Sorting.md)
 
 ---

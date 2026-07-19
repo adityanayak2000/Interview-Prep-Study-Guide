@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Bengaluru fabless semiconductor (IISc Technology Entrepreneurship roots). Hiring is primarily via [careers portal](https://portal.morphing.in/jobs) and LinkedIn — System Software, compiler, FPGA, RTL/DV — **not** a widely documented mass campus OA pattern on GFG/Glassdoor.
 

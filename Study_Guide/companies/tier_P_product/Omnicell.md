@@ -3,6 +3,8 @@
 **Tier:** P  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Bangalore software presence is confirmed via Omnicell careers content, but **India campus/off-campus SWE process documentation is too thin** for a confident template. The only detailed technical write-up found is a Senior Java Developer path (third-party recruiter; location/campus status unconfirmed): Technical → Technical → Managerial. Aggregator “fresher templates” are not first-hand and should not be treated as fact.
 

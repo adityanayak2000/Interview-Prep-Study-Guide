@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Fintech Blue Solutions Pvt Ltd (Mumbai, registered entity) is real, but **no SWE interview-process threads** were found on GFG, LeetCode Discuss, or Glassdoor. Do not confuse with similarly named fintech firms.
 

@@ -5,6 +5,8 @@
 
 _Caveat: Distinct from ICICI Lombard. Many GFG hits skew PO/managerial — pure-SWE sample is moderately thin._
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 - Resume screening (academics, skills, projects)
 - Online assessment/aptitude-technical test

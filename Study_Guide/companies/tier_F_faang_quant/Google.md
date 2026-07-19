@@ -3,6 +3,8 @@
 **Tier:** F  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Typical India fresher shape: **online coding OA → 2–4 technical/DSA rounds → Googleyness/behavioral**, often ~4–5 rounds over roughly a month. No separate aptitude battery at fresher level in the common accounts — process is DSA/CS-fundamentals driven. System design is light/occasional for freshers, not a universal fixed round.
 

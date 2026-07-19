@@ -1,4 +1,7 @@
 # 📋 Boss Sheets
+
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](README.md) · 🔍 [Find](../FIND.md)
+
 _Day-before drills. Prefer topic footers when you have time; use these PDFs when you need a quick pass._
 
 ## Why

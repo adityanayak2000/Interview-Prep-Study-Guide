@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Amdocs India (telecom software; Pune / Gurugram / Mumbai) runs a **fundamentals-heavy** fresher loop: proctored OA → optional psychometric/GD → technical → HR. **M.Tech/ME are explicitly eligible** on multiple campus drives; same pipeline as B.Tech.
 

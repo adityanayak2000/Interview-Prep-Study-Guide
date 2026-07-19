@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Campus-style process documented on GFG: online test with domain choice → multiple technical rounds (solution optimization, architecture, compilers) → HR/interest fit. Strong **hardware–CS hybrid** bar even for CS backgrounds.
 

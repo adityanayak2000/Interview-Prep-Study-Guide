@@ -1,6 +1,8 @@
 # Linked Lists ★
 _Highest-priority DSA topic for semiconductor OA & systems interviews · M.E. CS_
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../../companies/README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 **Tier S weight:** Critical · **Related:** [DSA Overview](00_DSA_Overview.md) · [C++ Fundamentals](../Cpp_Fundamentals.md) · [OOPs & LLD](../OOPs_LLD.md) (LRU)
 
 ---

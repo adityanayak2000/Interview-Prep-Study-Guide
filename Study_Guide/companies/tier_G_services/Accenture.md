@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Mainstream India campus hiring for ASE/AASE/AEH is a consistent **4-stage funnel**: (1) cognitive + technical MCQ, (2) coding assessment, (3) communication assessment, (4) combined technical + HR interview. Stages 1–2 are eliminatory; communication is mandatory but often treated as non-eliminatory. A separate Technology Development Program with a pitch-deck final round exists — do not mix it with this mainstream path.
 

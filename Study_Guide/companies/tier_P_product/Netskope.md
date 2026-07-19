@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Netskope is a **security / SASE** company; India campus and intern pipelines emphasize **OS + CN + DSA**. Best round-by-round public detail is still **2019 campus** write-ups — treat as the prep pattern until a newer campus report appears. Company has continued India campus engagement (e.g. BITS Pilani Goa visit signals) and intern relaunch; **2024–2026 OA specs are largely undocumented**.
 

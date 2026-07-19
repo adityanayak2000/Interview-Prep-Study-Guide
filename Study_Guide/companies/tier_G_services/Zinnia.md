@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Zinnia (life/annuity insurtech; formerly SE2 — India hubs Noida/Pune/Hyderabad/Bengaluru) typically runs **~3 rounds**: coding OA → technical (± projects/SQL/OOP) → HR. Some older on-campus drives insert a Group Discussion after OA. Off-campus intern loops can be Technical → HR → CTO without a large OA.
 

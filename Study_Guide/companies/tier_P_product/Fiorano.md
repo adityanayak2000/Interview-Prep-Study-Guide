@@ -3,6 +3,8 @@
 **Tier:** P  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Fiorano Software (integration middleware / ESB / JMS) runs a campus-style loop that usually looks like **OA → 1–2 technical rounds → optional HR**. Round count is not fixed (reports range 3–5). Recent Glassdoor (2025) leans OA → Tech R1 (basic DSA + resume) → Tech R2 (harder DSA/puzzles). Some older accounts skip a formal HR stage.
 

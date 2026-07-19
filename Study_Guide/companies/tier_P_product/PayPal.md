@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 PayPal India engineering hiring is **channel- and seniority-dependent**. India tech hubs include **Chennai, Bengaluru, Mumbai, and Hyderabad**. Treat the invite email as binding — loop shape differs between campus fresher drives, off-campus applications, and lateral SDE2+ pipelines.
 

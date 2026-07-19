@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Suhora Technologies (Noida geospatial/satellite-data deeptech startup) appears real, but **zero public interview-experience write-ups** were found across GFG, LeetCode Discuss, Glassdoor interview pages, AmbitionBox, Medium, Code360/InterviewBit, or campus reports. Hiring likely runs via direct job-board applications rather than mass campus drives.
 

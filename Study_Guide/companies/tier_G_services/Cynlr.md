@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Glassdoor-heavy sample: intro/background call → coding/knowledge assessment → technical interview → founders’ round → offer. Campus-leaning accounts add MCQ shortlist → coding (~1.5 hr) → DSA technical ± multi-day take-home. Feedback cycles often described as slow.
 

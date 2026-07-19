@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 **Disambiguation failure.** Hits resolve to civil/structural firms (e.g. Pacific Engineers Kolkata; Pacific Engineering & Design PLLC; Pacific Engineering Technologies) — none match a documented large India SWE campus pipeline. No SWE interview experiences found for a confirmed tech “Pacific Engineering.”
 

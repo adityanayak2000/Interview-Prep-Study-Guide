@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Public data is thin (~2 usable Glassdoor points; no GFG/LC Discuss). Rough shape reported: apply → phone/skills screen → 3–4 discussions (experience, assignment, skills) → offer; some roles use take-home + discussion instead of formal rounds. Not enough to claim a confident campus OA template.
 

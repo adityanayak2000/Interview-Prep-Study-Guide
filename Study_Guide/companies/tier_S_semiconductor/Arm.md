@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Campus FTE drives typically open an OA to CS/CE/ECE branches, then run online technical interviews heavy on low-level C/C++. Arm’s IP/architecture focus shows up as Computer Architecture & Organization (CAO) in the OA and as memory hierarchy / pointer / bitmask questions in interviews. Some embedded tracks use HireVue video screens before or instead of a classic proctored OA.
 

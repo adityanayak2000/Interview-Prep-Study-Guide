@@ -1,4 +1,7 @@
 # OOPs & LLD (router)
+
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](../library/README.md) · 🔍 [Find](../FIND.md)
+
 **Software / Product track** · Archetype: [Software_Product_SDE](../archetypes/Software_Product_SDE.md)
 
 ## Why it matters

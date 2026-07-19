@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Pine Labs (fintech / merchant payments) hires across **Noida, Bengaluru, Pune**. Campus/intern loops are **OA-heavy with a short post-OA interview**; experienced off-campus loops are **DSA + LLD/HLD + backend fundamentals**.
 

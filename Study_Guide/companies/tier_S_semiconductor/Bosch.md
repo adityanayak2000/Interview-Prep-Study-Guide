@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Campus: Online assessment (HirePro / AMCAT variants) → Bosch Day PPT → Technical interview → HR (sometimes skipped if tech feedback strong). Locations often Bangalore / Coimbatore / Pune / Hyderabad. Mobility vs IT track can depend on OA + interview scores.
 

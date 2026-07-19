@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 MathWorks India new-grad hiring for **EDG** (Bangalore / Hyderabad) is a **fundamentals-first** loop: multi-language OOP/C++, medium DSA, soft skills, and **EDG program literacy**. Campus visits often include PPT + GD; official off-campus “How We Hire” drops GD but keeps a code challenge + interview block.
 

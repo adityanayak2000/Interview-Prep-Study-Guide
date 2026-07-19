@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Flipkart SDE-1 is **DSA-heavy** with optional **machine coding / LLD**. Loop shape varies by channel (campus, GRiD contest, off-campus / Runway-style drives). Treat the invite email as binding.
 
@@ -60,7 +62,6 @@ Flipkart SDE-1 is **DSA-heavy** with optional **machine coding / LLD**. Loop sha
 - [OOPS Boss Sheet](https://drive.google.com/file/d/1s0HeZt05eck7cuwXxQZtDiZ_NEPfZwo6/view)
 - [LLD Boss Sheet](https://drive.google.com/file/d/1vG8CqGV8kGYOqTbA812-mKHKyeP1jGAQ/view)
 - See also: [00_INDEX](../../00_INDEX.md) · [Software_Product_SDE](../../archetypes/Software_Product_SDE.md)
-
 
 ## Sources
 - [Flipkart SDE-1 Off-Campus 2024 (GFG)](https://www.geeksforgeeks.org/interview-experiences/flipkart-interview-experience-for-sde-1-off-campus-2024/)

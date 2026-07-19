@@ -1,4 +1,7 @@
-# Archetype — Software / Product SDE
+# 📦 Archetype — Software / Product SDE
+
+> 🚪 [Start](../START_HERE.md) · 🗺️ [Map](../README.md) · 🏢 [Companies](../companies/README.md) · 📚 [Library](../library/README.md) · 🔍 [Find](../FIND.md)
+
 **Use when targeting product / fintech / SaaS:** Flipkart, Cred, Visa, Walmart Global Tech, PayPal, ServiceNow, and similar (Tier P when researched).
 
 Entry: [companies/README](../companies/README.md) · Matrix: [02_TOPIC_COMPANY_MATRIX](../02_TOPIC_COMPANY_MATRIX.md) · Systems track: [Semiconductor_Systems](Semiconductor_Systems.md)

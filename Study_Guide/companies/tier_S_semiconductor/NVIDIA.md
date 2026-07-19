@@ -3,6 +3,8 @@
 **Tier:** S (F-adjacent peer)  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 India on-campus: CGPA/marks shortlist → HackerRank OA → 1–2 technical interviews (sometimes single combined tech+HR). SSE tracks stress C/C++, OS, architecture; coding tracks love DP/graphs/tries.
 

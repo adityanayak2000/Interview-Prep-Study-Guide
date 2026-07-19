@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Turtlemint (insurtech; Mumbai / Pune / Goa) has **thin public SDE campus documentation**. Best signals: AmbitionBox (few SE/SD reports), JDs on Cutshort/Startup Goa, and intern→FTE profiles. GFG has no dedicated SDE interview-experience article; LeetCode Discuss / Glassdoor / TheJobOverflow empty for process detail.
 

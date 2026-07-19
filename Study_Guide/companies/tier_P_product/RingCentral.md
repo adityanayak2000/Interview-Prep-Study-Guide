@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 RingCentral India (Bengaluru primary; Gurugram) hires early-career engineers through **campus connect / on-campus drives** and **careers-portal** applications. Cloud communications / UCaaS product company — interviews skew **DSA + core CS + resume depth**, not telecom whiteboard HLD.
 

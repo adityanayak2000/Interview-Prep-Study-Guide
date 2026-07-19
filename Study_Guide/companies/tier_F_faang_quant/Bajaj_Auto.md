@@ -3,6 +3,8 @@
 **Tier:** F  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 - Resume shortlisting (campus/off-campus, CGPA/backlog filters)
 - Online test (aptitude + technical, sometimes psychometric)

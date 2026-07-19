@@ -3,6 +3,8 @@
 **Tier:** G  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Tesco’s Bengaluru tech hiring (distinct from UK retail Glassdoor pools in many listings): **aptitude → online coding (± C/DBMS/DS MCQs) → technical interview(s) → HR**. Some accounts describe four rounds including a project/tech-stack sitting.
 

@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 OA (Techgig / HirePro depending on drive) → 1–2 technical interviews → managerial/HR. Firmware tracks emphasize C, bit manipulation, OS, and COA; software tracks probe resume + core CS.
 

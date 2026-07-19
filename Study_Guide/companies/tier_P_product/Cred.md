@@ -3,6 +3,8 @@
 **Tier:** P
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 CRED hiring is selective and pipeline-driven rather than mass campus drives: targeted campus visits (e.g. newer IITs), intern cohorts with intern→FTE conversion, CodeChef contest + resume screening, referrals/LinkedIn, and recruiter outreach. Timeline often **1–3 weeks** once rounds start; campus days may compress multiple rounds into one day.
 
@@ -67,7 +69,6 @@ Often **no OA**; may start with recruiter screen or 24 hr take-home.
 - [OOPS Boss Sheet](https://drive.google.com/file/d/1s0HeZt05eck7cuwXxQZtDiZ_NEPfZwo6/view)
 - [LLD Boss Sheet](https://drive.google.com/file/d/1vG8CqGV8kGYOqTbA812-mKHKyeP1jGAQ/view)
 - See also: [00_INDEX](../../00_INDEX.md) · [Software_Product_SDE](../../archetypes/Software_Product_SDE.md)
-
 
 ## Sources
 - [CRED Interview Experience — Backend 2022 (Medium)](https://medium.com/@dbarnwal888/cred-interview-experience-backend-2022-26c312595397)

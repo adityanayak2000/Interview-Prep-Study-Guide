@@ -3,6 +3,8 @@
 **Tier:** F  
 **Status:** insufficient
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 - Unconfirmed order, pieced together: resume/CV shortlist (low hiring volume) → online screening test (proctored, HackerRank-style per one report) → 2-3 back-to-back technical/coding interviews → possible probability/quant-math round → final round/offer.
 

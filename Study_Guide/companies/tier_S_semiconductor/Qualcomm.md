@@ -3,6 +3,8 @@
 **Tier:** S  
 **Status:** done-v3
 
+> 🚪 [Start](../../START_HERE.md) · 🗺️ [Map](../../README.md) · 🏢 [Companies](../README.md) · 📚 [Library](../../library/README.md) · 🔍 [Find](../../FIND.md)
+
 ## Process Overview
 Campus and off-campus India hiring for software roles usually runs as a HirePro online assessment, then two technical interviews and a short HR round. Some off-campus paths skip the OA and go straight to virtual technical rounds. Expect strong emphasis on C/C++ fundamentals and Operating Systems rather than LeetCode-hard DSA.
 
