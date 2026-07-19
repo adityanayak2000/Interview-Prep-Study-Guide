@@ -175,29 +175,29 @@ Canonical board (always sync here): [Study_Guide/companies/README.md](Study_Guid
 | 75 | Google | [Google.md](Study_Guide/companies/tier_F_faang_quant/Google.md) | done-v3 |
 | 76 | Microsoft | [Microsoft.md](Study_Guide/companies/tier_F_faang_quant/Microsoft.md) | done-v3 |
 | 77 | Amazon | [Amazon.md](Study_Guide/companies/tier_F_faang_quant/Amazon.md) | done-v3 |
-| 78 | Meta | `Meta.md` | todo |
-| 79 | Apple | `Apple.md` | todo |
-| 80 | Databricks | `Databricks.md` | todo |
-| 81 | DE Shaw | `DE_Shaw.md` | todo |
-| 82 | Goldman Sachs | `Goldman_Sachs.md` | todo |
-| 83 | Morgan Stanley | `Morgan_Stanley.md` | todo |
-| 84 | American Express | `American_Express.md` | todo |
-| 85 | Mastercard | `Mastercard.md` | todo |
-| 86 | Capital One | `Capital_One.md` | todo |
-| 87 | Meesho | `Meesho.md` | todo |
-| 88 | Graviton Research Capital | `Graviton.md` | todo |
-| 89 | Optiver | `Optiver.md` | todo |
-| 90 | Quantbox | `Quantbox.md` | todo |
-| 91 | Wells Fargo | `Wells_Fargo.md` | todo |
-| 92 | ICICI Bank | `ICICI_Bank.md` | todo |
-| 93 | HDFC Bank | `HDFC_Bank.md` | todo |
-| 94 | HCL | `HCL.md` | todo |
-| 95 | Cognizant | `Cognizant.md` | todo |
-| 96 | Deloitte | `Deloitte.md` | todo |
-| 97 | Reliance | `Reliance.md` | todo |
-| 98 | Bajaj Auto | `Bajaj_Auto.md` | todo |
-| 99 | Tata Steel | `Tata_Steel.md` | todo |
-| 100 | Volvo / BPCL | `Volvo_BPCL.md` | todo |
+| 78 | Meta | [Meta.md](Study_Guide/companies/tier_F_faang_quant/Meta.md) | done-v3 |
+| 79 | Apple | [Apple.md](Study_Guide/companies/tier_F_faang_quant/Apple.md) | done-v3 |
+| 80 | Databricks | [Databricks.md](Study_Guide/companies/tier_F_faang_quant/Databricks.md) | done-v3 |
+| 81 | DE Shaw | [DE_Shaw.md](Study_Guide/companies/tier_F_faang_quant/DE_Shaw.md) | done-v3 |
+| 82 | Goldman Sachs | [Goldman_Sachs.md](Study_Guide/companies/tier_F_faang_quant/Goldman_Sachs.md) | done-v3 |
+| 83 | Morgan Stanley | [Morgan_Stanley.md](Study_Guide/companies/tier_F_faang_quant/Morgan_Stanley.md) | done-v3 |
+| 84 | American Express | [American_Express.md](Study_Guide/companies/tier_F_faang_quant/American_Express.md) | done-v3 |
+| 85 | Mastercard | [Mastercard.md](Study_Guide/companies/tier_F_faang_quant/Mastercard.md) | done-v3 |
+| 86 | Capital One | [Capital_One.md](Study_Guide/companies/tier_F_faang_quant/Capital_One.md) | done-v3 |
+| 87 | Meesho | [Meesho.md](Study_Guide/companies/tier_F_faang_quant/Meesho.md) | done-v3 |
+| 88 | Graviton Research Capital | [Graviton.md](Study_Guide/companies/tier_F_faang_quant/Graviton.md) | insufficient |
+| 89 | Optiver | [Optiver.md](Study_Guide/companies/tier_F_faang_quant/Optiver.md) | done-v3 |
+| 90 | Quantbox | [Quantbox.md](Study_Guide/companies/tier_F_faang_quant/Quantbox.md) | insufficient |
+| 91 | Wells Fargo | [Wells_Fargo.md](Study_Guide/companies/tier_F_faang_quant/Wells_Fargo.md) | done-v3 |
+| 92 | ICICI Bank | [ICICI_Bank.md](Study_Guide/companies/tier_F_faang_quant/ICICI_Bank.md) | done-v3 |
+| 93 | HDFC Bank | [HDFC_Bank.md](Study_Guide/companies/tier_F_faang_quant/HDFC_Bank.md) | done-v3 |
+| 94 | HCL | [HCL.md](Study_Guide/companies/tier_F_faang_quant/HCL.md) | done-v3 |
+| 95 | Cognizant | [Cognizant.md](Study_Guide/companies/tier_F_faang_quant/Cognizant.md) | done-v3 |
+| 96 | Deloitte | [Deloitte.md](Study_Guide/companies/tier_F_faang_quant/Deloitte.md) | done-v3 |
+| 97 | Reliance | [Reliance.md](Study_Guide/companies/tier_F_faang_quant/Reliance.md) | done-v3 |
+| 98 | Bajaj Auto | [Bajaj_Auto.md](Study_Guide/companies/tier_F_faang_quant/Bajaj_Auto.md) | insufficient |
+| 99 | Tata Steel | [Tata_Steel.md](Study_Guide/companies/tier_F_faang_quant/Tata_Steel.md) | done-v3 |
+| 100 | Volvo / BPCL | [Volvo_BPCL.md](Study_Guide/companies/tier_F_faang_quant/Volvo_BPCL.md) | insufficient |
 
 
 ---

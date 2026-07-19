@@ -1,5 +1,5 @@
 # Companies — Status Board (canonical)
-_Source of truth for company coverage. Tier S–P leftovers and Tier G researched; Tier F started (Google/Microsoft/Amazon)._
+_Source of truth for company coverage. Tiers S–G complete; Tier F #75–100 researched (batch_12 merge)._
 
 Contributors: [`../../CONTRIBUTING.md`](../../CONTRIBUTING.md) · Template: [`_TEMPLATE.md`](_TEMPLATE.md)  
 **Do not invent OA/process** for `todo` rows. Compensation is not published in this repo.
@@ -118,29 +118,29 @@ See also: [tier_G_services/README.md](tier_G_services/README.md)
 | 75 | Google | [Google.md](tier_F_faang_quant/Google.md) | done-v3 |
 | 76 | Microsoft | [Microsoft.md](tier_F_faang_quant/Microsoft.md) | done-v3 |
 | 77 | Amazon | [Amazon.md](tier_F_faang_quant/Amazon.md) | done-v3 |
-| 78 | Meta | `Meta.md` | todo |
-| 79 | Apple | `Apple.md` | todo |
-| 80 | Databricks | `Databricks.md` | todo |
-| 81 | DE Shaw | `DE_Shaw.md` | todo |
-| 82 | Goldman Sachs | `Goldman_Sachs.md` | todo |
-| 83 | Morgan Stanley | `Morgan_Stanley.md` | todo |
-| 84 | American Express | `American_Express.md` | todo |
-| 85 | Mastercard | `Mastercard.md` | todo |
-| 86 | Capital One | `Capital_One.md` | todo |
-| 87 | Meesho | `Meesho.md` | todo |
-| 88 | Graviton Research Capital | `Graviton.md` | todo |
-| 89 | Optiver | `Optiver.md` | todo |
-| 90 | Quantbox | `Quantbox.md` | todo |
-| 91 | Wells Fargo | `Wells_Fargo.md` | todo |
-| 92 | ICICI Bank | `ICICI_Bank.md` | todo |
-| 93 | HDFC Bank | `HDFC_Bank.md` | todo |
-| 94 | HCL | `HCL.md` | todo |
-| 95 | Cognizant | `Cognizant.md` | todo |
-| 96 | Deloitte | `Deloitte.md` | todo |
-| 97 | Reliance | `Reliance.md` | todo |
-| 98 | Bajaj Auto | `Bajaj_Auto.md` | todo |
-| 99 | Tata Steel | `Tata_Steel.md` | todo |
-| 100 | Volvo / BPCL | `Volvo_BPCL.md` | todo |
+| 78 | Meta | [Meta.md](tier_F_faang_quant/Meta.md) | done-v3 |
+| 79 | Apple | [Apple.md](tier_F_faang_quant/Apple.md) | done-v3 |
+| 80 | Databricks | [Databricks.md](tier_F_faang_quant/Databricks.md) | done-v3 |
+| 81 | DE Shaw | [DE_Shaw.md](tier_F_faang_quant/DE_Shaw.md) | done-v3 |
+| 82 | Goldman Sachs | [Goldman_Sachs.md](tier_F_faang_quant/Goldman_Sachs.md) | done-v3 |
+| 83 | Morgan Stanley | [Morgan_Stanley.md](tier_F_faang_quant/Morgan_Stanley.md) | done-v3 |
+| 84 | American Express | [American_Express.md](tier_F_faang_quant/American_Express.md) | done-v3 |
+| 85 | Mastercard | [Mastercard.md](tier_F_faang_quant/Mastercard.md) | done-v3 |
+| 86 | Capital One | [Capital_One.md](tier_F_faang_quant/Capital_One.md) | done-v3 |
+| 87 | Meesho | [Meesho.md](tier_F_faang_quant/Meesho.md) | done-v3 |
+| 88 | Graviton Research Capital | [Graviton.md](tier_F_faang_quant/Graviton.md) | insufficient |
+| 89 | Optiver | [Optiver.md](tier_F_faang_quant/Optiver.md) | done-v3 |
+| 90 | Quantbox | [Quantbox.md](tier_F_faang_quant/Quantbox.md) | insufficient |
+| 91 | Wells Fargo | [Wells_Fargo.md](tier_F_faang_quant/Wells_Fargo.md) | done-v3 |
+| 92 | ICICI Bank | [ICICI_Bank.md](tier_F_faang_quant/ICICI_Bank.md) | done-v3 |
+| 93 | HDFC Bank | [HDFC_Bank.md](tier_F_faang_quant/HDFC_Bank.md) | done-v3 |
+| 94 | HCL | [HCL.md](tier_F_faang_quant/HCL.md) | done-v3 |
+| 95 | Cognizant | [Cognizant.md](tier_F_faang_quant/Cognizant.md) | done-v3 |
+| 96 | Deloitte | [Deloitte.md](tier_F_faang_quant/Deloitte.md) | done-v3 |
+| 97 | Reliance | [Reliance.md](tier_F_faang_quant/Reliance.md) | done-v3 |
+| 98 | Bajaj Auto | [Bajaj_Auto.md](tier_F_faang_quant/Bajaj_Auto.md) | insufficient |
+| 99 | Tata Steel | [Tata_Steel.md](tier_F_faang_quant/Tata_Steel.md) | done-v3 |
+| 100 | Volvo / BPCL | [Volvo_BPCL.md](tier_F_faang_quant/Volvo_BPCL.md) | insufficient |
 
 See also: [tier_F_faang_quant/README.md](tier_F_faang_quant/README.md)
 
@@ -150,5 +150,5 @@ See also: [tier_F_faang_quant/README.md](tier_F_faang_quant/README.md)
 - `tier_S_semiconductor/` — researched files  
 - `tier_P_product/` — researched through #52 + Media.net (#52b)  
 - `tier_G_services/` — researched #53–74  
-- `tier_F_faang_quant/` — Google / Microsoft / Amazon done; remaining #78–100 backlog  
+- `tier_F_faang_quant/` — #75–100 researched (done-v3 / insufficient)  
 - `_TEMPLATE.md`
