@@ -6,7 +6,7 @@ Public strategy guides for **company interviews** and **DSA / systems / software
 **Repo:** https://github.com/adityanayak2000/Interview-Prep-Study-Guide  
 **💬 Feedback:** [FEEDBACK.md](FEEDBACK.md) · [Discussions](https://github.com/adityanayak2000/Interview-Prep-Study-Guide/discussions) · [Open an issue](https://github.com/adityanayak2000/Interview-Prep-Study-Guide/issues/new/choose)
 
-> Optional mirror: [docs.bitsinterviewprep.com](https://docs.bitsinterviewprep.com/) — **GitHub remains the source of truth and primary way to navigate.**
+**Living Interview Prep Doc** (library updates often land here first): <a href="https://docs.google.com/document/d/10mDBpsx1RuV9IgvK2yR-aXZN52mL46AJnTH5q70qTdA/edit?tab=t.0#heading=h.xdu8h5bvqhh8" target="_blank" rel="noopener noreferrer">Open Living Doc</a>
 
 ---
 
@@ -40,8 +40,6 @@ Product: [Flipkart](Study_Guide/companies/tier_P_product/Flipkart.md) · [Visa](
 | 🧭 | [Systems track](Study_Guide/archetypes/Semiconductor_Systems.md) · [Product track](Study_Guide/archetypes/Software_Product_SDE.md) | Archetype lenses |
 | 📑 | [SUMMARY](Study_Guide/SUMMARY.md) | Full markdown TOC |
 | 📎 | [00_INDEX](Study_Guide/00_INDEX.md) | Curated link registry |
-
-Living Interview Prep Doc (library deltas often land here first): <a href="https://docs.google.com/document/d/10mDBpsx1RuV9IgvK2yR-aXZN52mL46AJnTH5q70qTdA/edit?tab=t.0#heading=h.xdu8h5bvqhh8" target="_blank" rel="noopener noreferrer">Open Living Doc</a>
 
 ---
 
