@@ -1,25 +1,32 @@
-# 📚 Library portal
-_PDFs, Boss Sheets, MCQ banks, pattern hubs — links only. Strategy stays in topic/company files._
+# Library
 
-Deep catalog (full lists): [`../../Interview_Prep_Resources_Context.md`](../../Interview_Prep_Resources_Context.md) · [`../../🎯 Interview Prep Resources.md`](../../🎯%20Interview%20Prep%20Resources.md)
+PDFs, Boss Sheets, MCQ banks, and pattern hubs — **links only**.  
+Concepts stay in topic and company files under `Study_Guide/`.
 
-## Hubs
+Deep catalogs: [`Interview_Prep_Resources_Context.md`](../../Interview_Prep_Resources_Context.md) · [`🎯 Interview Prep Resources.md`](../../🎯%20Interview%20Prep%20Resources.md)
 
-| Icon | Hub | Use when |
+---
+
+## Map
+
+| Area | Open | When |
 |---|---|---|
-| 📋 | [Boss Sheets](Boss_Sheets.md) | Night before — quick drills |
-| 🧠 | [OS / Systems PDFs & MCQs](OS_Systems_PDFs.md) | OS MCQ bank, cheatsheets, OSTEP |
-| 🏗️ | [CN / DBMS / OOP PDFs](CN_DBMS_OOP_PDFs.md) | Soft fundamentals packs |
-| 🧮 | [DSA pattern hubs](DSA_Pattern_Hubs.md) | External pattern maps + cheatsheets |
-| 📦 | [LC archives explained](LC_Archives_Explainer.md) | Company Drive folders ≠ OA |
+| Day-before | [Boss Sheets](Boss_Sheets.md) | Night before OA / interview |
+| Systems PDFs | [OS / Systems PDFs & MCQs](OS_Systems_PDFs.md) | OS MCQ bank, cheatsheets, OSTEP |
+| Software PDFs | [CN / DBMS / OOP](CN_DBMS_OOP_PDFs.md) | Soft fundamentals packs |
+| DSA | [Pattern hubs](DSA_Pattern_Hubs.md) | External pattern maps + cheatsheets |
+| Company Drive folders | [LC archives explained](LC_Archives_Explainer.md) | Folders are LC practice, not OA |
 
-## 3-click paths
+---
 
-1. **OS MCQs tomorrow** → [OS / Systems PDFs](OS_Systems_PDFs.md) → OS MCQ Practice  
-2. **Day-before sheet** → [Boss Sheets](Boss_Sheets.md) → topic Boss PDF  
-3. **Study concepts** → [../topics/OS.md](../topics/OS.md) (or other topic) → Resource Panel  
+## Quick paths
+
+1. OS MCQs → [OS / Systems PDFs](OS_Systems_PDFs.md) → OS MCQ Practice  
+2. Boss Sheet → [Boss Sheets](Boss_Sheets.md)  
+3. Concepts → e.g. [Operating Systems](../topics/OS.md) → Resource Panel  
+
+---
 
 ## See also
 
-- [🚪 START HERE](../START_HERE.md) · [🔍 FIND](../FIND.md) · [00_INDEX](../00_INDEX.md)
-- [💬 Feedback](../../FEEDBACK.md)
+[START HERE](../START_HERE.md) · [FIND](../FIND.md) · [00_INDEX](../00_INDEX.md) · [Feedback](../../FEEDBACK.md)

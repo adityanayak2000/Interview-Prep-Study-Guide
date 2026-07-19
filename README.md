@@ -1,51 +1,49 @@
 # Interview Prep Study Guide
+
 **M.E. / M.Tech Computer Science · BITS Pilani (and peers)**
 
-Public strategy guides for **company interviews** and **DSA / systems / software** topics. Compensation / CTC / student PII are **not** published.
+Company interview guides and DSA / systems / software topic notes.  
+This repo does **not** publish compensation, campus CTC tables, or student PII.
 
-**Repo:** https://github.com/adityanayak2000/Interview-Prep-Study-Guide  
-**💬 Feedback:** [FEEDBACK.md](FEEDBACK.md) · [Discussions](https://github.com/adityanayak2000/Interview-Prep-Study-Guide/discussions) · [Open an issue](https://github.com/adityanayak2000/Interview-Prep-Study-Guide/issues/new/choose)
-
-**Living Interview Prep Doc** (library updates often land here first): <a href="https://docs.google.com/document/d/10mDBpsx1RuV9IgvK2yR-aXZN52mL46AJnTH5q70qTdA/edit?tab=t.0#heading=h.xdu8h5bvqhh8" target="_blank" rel="noopener noreferrer">Open Living Doc</a>
-
----
-
-## 🚪 Start here (3 paths)
-
-| Path | Open |
+| | |
 |---|---|
-| 🔬 Systems / semiconductor | [START HERE](Study_Guide/START_HERE.md) → [Qualcomm](Study_Guide/companies/tier_S_semiconductor/Qualcomm.md) → [OS](Study_Guide/topics/OS.md) |
-| 📦 Product / SDE | [START HERE](Study_Guide/START_HERE.md) → [Flipkart](Study_Guide/companies/tier_P_product/Flipkart.md) → [DSA Overview](Study_Guide/topics/DSA/00_DSA_Overview.md) |
-| 🧮 Browse all topics | [topics/README.md](Study_Guide/topics/README.md) |
-
-**Juniors:** always begin at **[🚪 START HERE](Study_Guide/START_HERE.md)** · stuck finding a file? **[🔍 FIND](Study_Guide/FIND.md)**
-
-### Warm-ups
-Systems: [Qualcomm](Study_Guide/companies/tier_S_semiconductor/Qualcomm.md) · [TI](Study_Guide/companies/tier_S_semiconductor/Texas_Instruments.md) · [MediaTek](Study_Guide/companies/tier_S_semiconductor/MediaTek.md)  
-Product: [Flipkart](Study_Guide/companies/tier_P_product/Flipkart.md) · [Visa](Study_Guide/companies/tier_P_product/Visa.md) · [CRED](Study_Guide/companies/tier_P_product/Cred.md)
+| **Repository** | https://github.com/adityanayak2000/Interview-Prep-Study-Guide |
+| **Living Interview Doc** | <a href="https://docs.google.com/document/d/10mDBpsx1RuV9IgvK2yR-aXZN52mL46AJnTH5q70qTdA/edit?tab=t.0#heading=h.xdu8h5bvqhh8" target="_blank" rel="noopener noreferrer">Open Google Doc</a> *(library updates often land here first)* |
+| **Feedback** | [FEEDBACK.md](FEEDBACK.md) · [Discussions](https://github.com/adityanayak2000/Interview-Prep-Study-Guide/discussions) · [Issues](https://github.com/adityanayak2000/Interview-Prep-Study-Guide/issues/new/choose) |
 
 ---
 
-## 🗺️ Icon hub
+## Start here
 
-| Icon | Hub | What’s inside |
-|---|---|---|
-| 🚪 | [START HERE](Study_Guide/START_HERE.md) | 1-screen junior landing |
-| 🔍 | [FIND](Study_Guide/FIND.md) | GitHub search cheat sheet |
-| 📚 | [Library](Study_Guide/library/README.md) | PDFs, Boss Sheets, **OS MCQs** |
-| 📋 | [Boss Sheets](Study_Guide/library/Boss_Sheets.md) | Day-before PDFs |
-| 🧠 | [OS / Systems PDFs](Study_Guide/library/OS_Systems_PDFs.md) | MCQ bank + cheatsheets |
-| 🏢 | [Companies board](Study_Guide/companies/README.md) | Status SoT (#1–100) |
-| 🔬📦🧰🚀 | [S](Study_Guide/companies/tier_S_semiconductor/README.md) · [P](Study_Guide/companies/tier_P_product/README.md) · [G](Study_Guide/companies/tier_G_services/README.md) · [F](Study_Guide/companies/tier_F_faang_quant/README.md) | Companies by tier |
-| 🧭 | [Systems track](Study_Guide/archetypes/Semiconductor_Systems.md) · [Product track](Study_Guide/archetypes/Software_Product_SDE.md) | Archetype lenses |
-| 📑 | [SUMMARY](Study_Guide/SUMMARY.md) | Full markdown TOC |
-| 📎 | [00_INDEX](Study_Guide/00_INDEX.md) | Curated link registry |
+Begin at **[Study_Guide/START_HERE.md](Study_Guide/START_HERE.md)**. If you cannot find a file, use **[Study_Guide/FIND.md](Study_Guide/FIND.md)**.
+
+| Track | Path |
+|---|---|
+| Systems / semiconductor | [START HERE](Study_Guide/START_HERE.md) → [Qualcomm](Study_Guide/companies/tier_S_semiconductor/Qualcomm.md) → [Operating Systems](Study_Guide/topics/OS.md) |
+| Product / SDE | [START HERE](Study_Guide/START_HERE.md) → [Flipkart](Study_Guide/companies/tier_P_product/Flipkart.md) → [DSA Overview](Study_Guide/topics/DSA/00_DSA_Overview.md) |
+| All topics | [topics/README.md](Study_Guide/topics/README.md) |
+
+**Warm-up companies** — Systems: [Qualcomm](Study_Guide/companies/tier_S_semiconductor/Qualcomm.md) · [TI](Study_Guide/companies/tier_S_semiconductor/Texas_Instruments.md) · [MediaTek](Study_Guide/companies/tier_S_semiconductor/MediaTek.md) · Product: [Flipkart](Study_Guide/companies/tier_P_product/Flipkart.md) · [Visa](Study_Guide/companies/tier_P_product/Visa.md) · [CRED](Study_Guide/companies/tier_P_product/Cred.md)
+
+---
+
+## Map
+
+Five areas only — open one row, then drill down. (GitHub uses its own fonts; this layout is for scannability.)
+
+| Area | Open |
+|---|---|
+| **Start** | [START HERE](Study_Guide/START_HERE.md) · [FIND (search)](Study_Guide/FIND.md) |
+| **Study** | [Systems track](Study_Guide/archetypes/Semiconductor_Systems.md) · [Product track](Study_Guide/archetypes/Software_Product_SDE.md) · [All topics](Study_Guide/topics/README.md) · [Roadmaps](Study_Guide/01_ROADMAPS.md) |
+| **Companies** | [Status board](Study_Guide/companies/README.md) · [Tier S](Study_Guide/companies/tier_S_semiconductor/README.md) · [Tier P](Study_Guide/companies/tier_P_product/README.md) · [Tier G](Study_Guide/companies/tier_G_services/README.md) · [Tier F](Study_Guide/companies/tier_F_faang_quant/README.md) |
+| **Library** | [Portal](Study_Guide/library/README.md) · [Boss Sheets](Study_Guide/library/Boss_Sheets.md) · [OS PDFs & MCQs](Study_Guide/library/OS_Systems_PDFs.md) · [CN / DBMS / OOP](Study_Guide/library/CN_DBMS_OOP_PDFs.md) · [DSA hubs](Study_Guide/library/DSA_Pattern_Hubs.md) |
+| **Index** | [SUMMARY (full TOC)](Study_Guide/SUMMARY.md) · [00_INDEX (links)](Study_Guide/00_INDEX.md) · [Topic × company matrix](Study_Guide/02_TOPIC_COMPANY_MATRIX.md) |
 
 ---
 
 ## 🏢 Companies (~100 guides)
 
-Full status board (canonical): **[Study_Guide/companies/README.md](Study_Guide/companies/README.md)** · TOC: [SUMMARY → Companies](Study_Guide/SUMMARY.md#🏢-companies)
+Full status board (canonical): **[Study_Guide/companies/README.md](Study_Guide/companies/README.md)** · TOC: [SUMMARY → Companies](Study_Guide/SUMMARY.md#companies)
 
 | Tier | Index | Sample companies |
 |---|---|---|
@@ -83,7 +81,7 @@ Statuses: `✅ done-v3` = researched · `⚠️ insufficient` = thin public data
 Status: `✅ done-v3` = researched · `⚠️ insufficient` = thin public data. Canonical board: [Study_Guide/companies/README.md](Study_Guide/companies/README.md).
 
 
-#### 🔬 Tier S — Semiconductor / Systems
+#### Tier S — Semiconductor / Systems
 Tier index: [tier_S_semiconductor](Study_Guide/companies/tier_S_semiconductor/README.md)
 
 | # | Company | File | Status |
@@ -111,7 +109,7 @@ Tier index: [tier_S_semiconductor](Study_Guide/companies/tier_S_semiconductor/RE
 | 21 | Kinara.ai | [Kinara_ai.md](Study_Guide/companies/tier_S_semiconductor/Kinara_ai.md) | ⚠️ insufficient |
 | 22 | Human Powered Health – Quess Corp | [Human_Powered_Health_Quess.md](Study_Guide/companies/tier_S_semiconductor/Human_Powered_Health_Quess.md) | ⚠️ insufficient |
 
-#### 📦 Tier P — Product / Fintech / SaaS
+#### Tier P — Product / Fintech / SaaS
 Tier index: [tier_P_product](Study_Guide/companies/tier_P_product/README.md)
 
 | # | Company | File | Status |
@@ -148,7 +146,7 @@ Tier index: [tier_P_product](Study_Guide/companies/tier_P_product/README.md)
 | 52 | Wabtec | [Wabtec.md](Study_Guide/companies/tier_P_product/Wabtec.md) | ⚠️ insufficient |
 | 52b | Media.net | [Media_net.md](Study_Guide/companies/tier_P_product/Media_net.md) | ✅ done-v3 |
 
-#### 🧰 Tier G — Services / Analytics / Niche
+#### Tier G — Services / Analytics / Niche
 Tier index: [tier_G_services](Study_Guide/companies/tier_G_services/README.md)
 
 | # | Company | File | Status |
@@ -176,7 +174,7 @@ Tier index: [tier_G_services](Study_Guide/companies/tier_G_services/README.md)
 | 73 | Tesco | [Tesco.md](Study_Guide/companies/tier_G_services/Tesco.md) | ✅ done-v3 |
 | 74 | Fintech Blue Solutions | [Fintech_Blue_Solutions.md](Study_Guide/companies/tier_G_services/Fintech_Blue_Solutions.md) | ⚠️ insufficient |
 
-#### 🚀 Tier F — FAANG+ / Quant / Bank peers
+#### Tier F — FAANG+ / Quant / Bank peers
 Tier index: [tier_F_faang_quant](Study_Guide/companies/tier_F_faang_quant/README.md)
 
 | # | Company | File | Status |
