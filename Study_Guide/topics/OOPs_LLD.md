@@ -43,6 +43,7 @@ Concurrent LLD: LRU cache, rate limiter, pub-sub — link [Concurrency](Concurre
 Day-before: [OOPS Boss Sheet](https://drive.google.com/file/d/1s0HeZt05eck7cuwXxQZtDiZ_NEPfZwo6/view) + [LLD Boss Sheet](https://drive.google.com/file/d/1vG8CqGV8kGYOqTbA812-mKHKyeP1jGAQ/view).
 
 ## Resource Panel
+- [📚 CN / DBMS / OOP PDF hub](../library/CN_DBMS_OOP_PDFs.md)
 - [OOPS Interview Questions PDF](https://drive.google.com/file/d/19E0KwbC_ufqGPl6-sgL8jMWASraCiQ0E/view)
 - [Dive Into Design Patterns](https://drive.google.com/file/d/1uu3Ye48X9h0YifMl56o2BbN5vkQdFiJk/view)
 - [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)

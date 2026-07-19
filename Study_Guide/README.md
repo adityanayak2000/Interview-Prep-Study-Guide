@@ -1,45 +1,42 @@
 # Study Guide — M.E./M.Tech CS Interview Prep
 ## BITS Pilani (Hyderabad + Goa)
 
-**Canonical student entry.** Strategy lives here; library markdown is at the repo root.  
-**Full repo index (all ~100 companies):** [`../README.md`](../README.md)  
-Contributors: [`../CONTRIBUTING.md`](../CONTRIBUTING.md) · Feedback: [`../FEEDBACK.md`](../FEEDBACK.md) · Legacy: [`_legacy/README.md`](_legacy/README.md)
+**→ Juniors: open [🚪 START HERE](START_HERE.md) first.**
 
-Compensation / campus CTC tables are **not published** in this repo.
+Strategy lives here; deep PDF catalogs are at the repo root. Compensation / CTC tables are **not** published.
 
-### Warm-up targets (not the full list)
-**Systems:** [Qualcomm](companies/tier_S_semiconductor/Qualcomm.md) · [TI](companies/tier_S_semiconductor/Texas_Instruments.md) · [MediaTek](companies/tier_S_semiconductor/MediaTek.md) · [AMD](companies/tier_S_semiconductor/AMD.md) · [Arm](companies/tier_S_semiconductor/Arm.md)  
-**Product:** [Flipkart](companies/tier_P_product/Flipkart.md) · [CRED](companies/tier_P_product/Cred.md) · [Visa](companies/tier_P_product/Visa.md) · [Cisco](companies/tier_P_product/Cisco.md)
+Contributors: [`../CONTRIBUTING.md`](../CONTRIBUTING.md) · Feedback: [`../FEEDBACK.md`](../FEEDBACK.md) · Search: [🔍 FIND](FIND.md)
 
-→ **All companies #1–100:** [companies/README.md](companies/README.md) · also mirrored in [root README](../README.md#complete-company-index)  
-→ Lenses: [Semiconductor Systems](archetypes/Semiconductor_Systems.md) · [Software / Product SDE](archetypes/Software_Product_SDE.md)  
-→ Systems spine: [Systems Interview](topics/Systems_Interview.md)
+### Hub
 
-### Systems tomorrow (≤2 clicks)
-1. Open a Tier S company (or the status board).  
-2. Follow **Related topics** → usually [Linked Lists](topics/DSA/Linked_Lists.md), [OS](topics/OS.md), [C++](topics/Cpp_Fundamentals.md), [Concurrency](topics/Concurrency_Multithreading.md), [Bits](topics/DSA/Bit_Manipulation.md).
+| Icon | Link |
+|---|---|
+| 🚪 | [START HERE](START_HERE.md) |
+| 🔍 | [FIND — search playbook](FIND.md) |
+| 📚 | [Library (PDFs / MCQs)](library/README.md) |
+| 🏢 | [Companies status board](companies/README.md) |
+| 🧭 | [Semiconductor](archetypes/Semiconductor_Systems.md) · [Product SDE](archetypes/Software_Product_SDE.md) |
+| 📋 | [Boss Sheets index](03_BOSS_SHEETS.md) |
 
-### Product-company tomorrow
-1. Open [Software / Product SDE](archetypes/Software_Product_SDE.md).  
-2. Drill [DSA Overview](topics/DSA/00_DSA_Overview.md) + [OOPs & LLD](topics/OOPs_LLD.md) + a Tier P company file.
+### Warm-up targets
+**Systems:** [Qualcomm](companies/tier_S_semiconductor/Qualcomm.md) · [TI](companies/tier_S_semiconductor/Texas_Instruments.md) · [MediaTek](companies/tier_S_semiconductor/MediaTek.md)  
+**Product:** [Flipkart](companies/tier_P_product/Flipkart.md) · [CRED](companies/tier_P_product/Cred.md) · [Visa](companies/tier_P_product/Visa.md)
+
+→ Tiers: [🔬 S](companies/tier_S_semiconductor/README.md) · [📦 P](companies/tier_P_product/README.md) · [🧰 G](companies/tier_G_services/README.md) · [🚀 F](companies/tier_F_faang_quant/README.md)
 
 ### Navigation
 | Doc | Purpose |
 |---|---|
-| [00_INDEX.md](00_INDEX.md) | TOC + link registry + DSA hubs |
-| [01_ROADMAPS.md](01_ROADMAPS.md) | 4-week sprint + 12-week outline |
+| [00_INDEX.md](00_INDEX.md) | Link registry + DSA hubs |
+| [01_ROADMAPS.md](01_ROADMAPS.md) | 4-week / 12-week plans |
 | [02_TOPIC_COMPANY_MATRIX.md](02_TOPIC_COMPANY_MATRIX.md) | Topic weights |
 | [03_BOSS_SHEETS.md](03_BOSS_SHEETS.md) | Day-before index |
+| [SUMMARY.md](SUMMARY.md) | Full markdown TOC |
 | [topics/README.md](topics/README.md) | Topic list |
-| [companies/README.md](companies/README.md) | **Status SoT + full backlog** |
-| [SUMMARY.md](SUMMARY.md) | GitBook nav |
+| [_legacy/README.md](_legacy/README.md) | Living Doc sync |
 
 ### How to study
-1. Pick company → read Topic Weights + Resource Panel.  
+1. Company → Topic Weights + Resource Panel.  
 2. Open only High-weight topics.  
-3. Use Resource Panels → full `https://` library links.  
-4. Pattern hubs: [DSA Overview](topics/DSA/00_DSA_Overview.md).
-
-### Library (repo root)
-- [`../Interview_Prep_Resources_Context.md`](../Interview_Prep_Resources_Context.md)
-- [`../🎯 Interview Prep Resources.md`](../🎯%20Interview%20Prep%20Resources.md)
+3. Night before → [library/Boss_Sheets.md](library/Boss_Sheets.md).  
+4. OS MCQs → [library/OS_Systems_PDFs.md](library/OS_Systems_PDFs.md).

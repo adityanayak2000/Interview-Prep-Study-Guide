@@ -52,6 +52,7 @@ AF_INET stream = TCP; datagram = UDP. See also YC TCP sockets article via [Conte
 [CN Boss Sheet](https://drive.google.com/file/d/1maLFnmWgjgJyCd6cQ4CHIlVbLIMRMaAm/view)
 
 ## Resource Panel
+- [📚 CN / DBMS / OOP PDF hub](../library/CN_DBMS_OOP_PDFs.md)
 - [CN Quick Notes](https://drive.google.com/file/d/1OymHd6cW-KQ4L36DVCEeD2OUdknXQBwY/view)
 - [Blue Team Networking](https://drive.google.com/file/d/12dJ0VPDdLkFtnkjHkMEBxcixqERr37IP/view)
 - [CN GitHub Notes (notescs)](https://github.com/notescs/notes/blob/main/Computer-Networks-for-Interviews/README.md)

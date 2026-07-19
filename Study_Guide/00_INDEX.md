@@ -1,8 +1,10 @@
 # Study Guide — Index & Link Registry
 _M.E./M.Tech CS | BITS Pilani | v4 hygiene (strategy-first)_
 
-**Strategy** = this folder. **Library** = Interview Prep files at repo root (deep-link; do not dump catalogs here).  
-**Living Doc** (legacy Interview Prep — updates online first): [Google Doc](https://docs.google.com/document/d/10mDBpsx1RuV9IgvK2yR-aXZN52mL46AJnTH5q70qTdA/edit?tab=t.0#heading=h.xdu8h5bvqhh8) · sync rules: [`../CONTRIBUTING.md`](../CONTRIBUTING.md) · [`_legacy/README`](_legacy/README.md)  
+**→ Juniors: [🚪 START HERE](START_HERE.md)** · **[🔍 FIND](FIND.md)** · **[📚 Library](library/README.md)**
+
+**Strategy** = this folder. **Library hubs** = [`library/`](library/README.md) (PDFs/MCQs). Deep catalogs at repo root.  
+**Living Doc** (updates online first): [Google Doc](https://docs.google.com/document/d/10mDBpsx1RuV9IgvK2yR-aXZN52mL46AJnTH5q70qTdA/edit?tab=t.0#heading=h.xdu8h5bvqhh8) · sync: [`../CONTRIBUTING.md`](../CONTRIBUTING.md) · [`_legacy/README`](_legacy/README.md)  
 Contributors: [`../CONTRIBUTING.md`](../CONTRIBUTING.md)
 
 ### DSA pattern hubs (external)
@@ -13,6 +15,9 @@ Full list with discuss deep-dives: [topics/DSA/00_DSA_Overview.md](topics/DSA/00
 ## Live navigation (strategy)
 
 ### Start
+- [🚪 START HERE](START_HERE.md)
+- [🔍 FIND](FIND.md)
+- [📚 Library portal](library/README.md) — [OS MCQs ★](library/OS_Systems_PDFs.md) · [Boss Sheets](library/Boss_Sheets.md)
 - [README](README.md)
 - [Roadmaps](01_ROADMAPS.md)
 - [Topic × Company Matrix](02_TOPIC_COMPANY_MATRIX.md)
@@ -56,6 +61,8 @@ Full list with discuss deep-dives: [topics/DSA/00_DSA_Overview.md](topics/DSA/00
 
 ## Library quick links (curated — not full catalogs)
 
+**Prefer hubs:** [📚 library/](library/README.md) · [OS / Systems PDFs & MCQs ★](library/OS_Systems_PDFs.md) · [Boss Sheets](library/Boss_Sheets.md) · [CN/DBMS/OOP](library/CN_DBMS_OOP_PDFs.md) · [DSA hubs](library/DSA_Pattern_Hubs.md)
+
 Use these in Resource Panels (5–15 links max per file). Expand more from context §13.
 
 ### Boss Sheets
@@ -66,8 +73,10 @@ Use these in Resource Panels (5–15 links max per file). Expand more from conte
 - [HLD](https://drive.google.com/file/d/1YClCcB5e1tq1dNNnXeDQUnibCjCLykYI/view)
 - [LLD/Patterns](https://drive.google.com/file/d/1vG8CqGV8kGYOqTbA812-mKHKyeP1jGAQ/view)
 - [HR/Behavioural](https://drive.google.com/file/d/1jsOro7s9jwRc-TvANeAVNjmf8bErkMX5/view)
+- Hub: [library/Boss_Sheets.md](library/Boss_Sheets.md)
 
 ### OS / Concurrency / Systems
+- [OS MCQ Practice ★](https://drive.google.com/file/d/11fADR2f8lIkK3HLQnGZ7jBhjBFa5Dd2G/view) — also [library hub](library/OS_Systems_PDFs.md)
 - [YC C++ / OS / Concurrency Roadmap (per-article Medium map)](topics/YC_Cpp_OS_Concurrency_Roadmap.md)
 - [YC Contents hub](https://yc-kuo.medium.com/contents-e8eedc905fa)
 - [OSTEP (free)](https://pages.cs.wisc.edu/~remzi/OSTEP/)

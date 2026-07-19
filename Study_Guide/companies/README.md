@@ -1,17 +1,26 @@
-# Companies — Status Board (canonical)
-_Source of truth for company coverage. Tiers S–G complete; Tier F #75–100 researched (batch_12 merge)._
+# 🏢 Companies — Status Board (canonical)
+_Source of truth for company coverage. Tiers S–G–F researched (#1–100 + Media.net)._
+
+**How to use:** pick a tier below → open a company file → follow Topic Weights → day-before via [Boss Sheets](../library/Boss_Sheets.md). Juniors: start at [🚪 START HERE](../START_HERE.md).
+
+| Tier | Browse |
+|---|---|
+| 🔬 S Semiconductor | [tier_S_semiconductor/README.md](tier_S_semiconductor/README.md) |
+| 📦 P Product | [tier_P_product/README.md](tier_P_product/README.md) |
+| 🧰 G Services | [tier_G_services/README.md](tier_G_services/README.md) |
+| 🚀 F FAANG+ / Quant | [tier_F_faang_quant/README.md](tier_F_faang_quant/README.md) |
 
 Contributors: [`../../CONTRIBUTING.md`](../../CONTRIBUTING.md) · Template: [`_TEMPLATE.md`](_TEMPLATE.md)  
-**Do not invent OA/process** for `todo` rows. Compensation is not published in this repo.
+**Do not invent OA/process** for thin rows. Compensation is not published in this repo.
 
 ## Status legend
-`todo` | `done-v3` | `insufficient`
+`✅ done-v3` | `⚠️ insufficient` | `todo` (unused when a file exists)
 
 A name on this board **does not** mean a file exists — only `done-v3` / `insufficient` with a path under `tier_*/` counts as researched.
 
 ---
 
-## Tier S — Semiconductor / Systems
+## 🔬 Tier S — Semiconductor / Systems
 
 | # | Company | File | Status |
 |---|---|---|---|
@@ -40,7 +49,7 @@ A name on this board **does not** mean a file exists — only `done-v3` / `insuf
 
 ---
 
-## Tier P — Product / Fintech / SaaS
+## 📦 Tier P — Product / Fintech / SaaS
 
 | # | Company | Suggested slug | Status |
 |---|---|---|---|
@@ -80,7 +89,7 @@ See also: [tier_P_product/README.md](tier_P_product/README.md)
 
 ---
 
-## Tier G — Services / Analytics / Niche
+## 🧰 Tier G — Services / Analytics / Niche
 
 | # | Company | Suggested slug | Status |
 |---|---|---|---|
@@ -111,7 +120,7 @@ See also: [tier_G_services/README.md](tier_G_services/README.md)
 
 ---
 
-## Tier F — FAANG+ / Quant / Bank peers
+## 🚀 Tier F — FAANG+ / Quant / Bank peers
 
 | # | Company | Suggested slug | Status |
 |---|---|---|---|
@@ -150,5 +159,6 @@ See also: [tier_F_faang_quant/README.md](tier_F_faang_quant/README.md)
 - `tier_S_semiconductor/` — researched files  
 - `tier_P_product/` — researched through #52 + Media.net (#52b)  
 - `tier_G_services/` — researched #53–74  
-- `tier_F_faang_quant/` — #75–100 researched (done-v3 / insufficient)  
+- `tier_F_faang_quant/` — #75–100 researched (done-v3 / insufficient)
+- Tier READMEs list every company in-folder with status badges  
 - `_TEMPLATE.md`

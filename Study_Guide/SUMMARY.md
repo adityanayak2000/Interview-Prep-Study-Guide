@@ -1,28 +1,36 @@
 # Summary
 
-* GitBook / docs nav for `Study_Guide/`. Source of truth is this GitHub markdown tree.
-* Sync GitBook to the **`Study_Guide/`** folder.
-* Compensation / CTC files are not published here.
+Human TOC for GitHub browsing (optional future docs tools). Source of truth remains this markdown tree.
 
-## Start
-* [README](README.md)
+## 🚪 Start
+* [START HERE](START_HERE.md)
+* [Study Guide README](README.md)
+* [🔍 How to search (FIND)](FIND.md)
 * [Index & link registry](00_INDEX.md)
 * [Roadmaps](01_ROADMAPS.md)
 * [Topic × Company Matrix](02_TOPIC_COMPANY_MATRIX.md)
 * [Boss Sheets](03_BOSS_SHEETS.md)
 
-## Archetypes
+## 🧭 Tracks
 * [Semiconductor / Systems](archetypes/Semiconductor_Systems.md)
 * [Software / Product SDE](archetypes/Software_Product_SDE.md)
 
-## Topics — Systems
+## 📚 Library
+* [Library portal](library/README.md)
+* [Boss Sheets (PDFs)](library/Boss_Sheets.md)
+* [OS / Systems PDFs & MCQs](library/OS_Systems_PDFs.md)
+* [CN / DBMS / OOP PDFs](library/CN_DBMS_OOP_PDFs.md)
+* [DSA pattern hubs](library/DSA_Pattern_Hubs.md)
+* [LC archives explained](library/LC_Archives_Explainer.md)
+
+## 🧠 Topics — Systems
 * [Systems Interview spine](topics/Systems_Interview.md)
 * [Operating Systems](topics/OS.md)
 * [Concurrency](topics/Concurrency_Multithreading.md)
 * [C++ Fundamentals](topics/Cpp_Fundamentals.md)
 * [YC C++ / OS / Concurrency Roadmap](topics/YC_Cpp_OS_Concurrency_Roadmap.md)
 
-## Topics — DSA
+## 🧮 Topics — DSA
 * [DSA Overview](topics/DSA/00_DSA_Overview.md)
 * [STL Quick Reference](topics/DSA/STL/00_STL_Quick_Reference.md)
 * [STL Containers](topics/DSA/STL/01_Containers.md)
@@ -39,15 +47,128 @@
 * [Sorting & Greedy](topics/DSA/Sorting.md)
 * [Bit Manipulation](topics/DSA/Bit_Manipulation.md)
 
-## Topics — Software routers
+## 🏗️ Topics — Software
 * [OOPs & LLD](topics/OOPs_LLD.md)
 * [DBMS & SQL](topics/DBMS_SQL.md)
 * [Computer Networks](topics/Computer_Networks.md)
 * [System Design HLD](topics/System_Design_HLD.md)
 
-## Companies
-* [Status board & full backlog](companies/README.md)
-* [Tier S example — Qualcomm](companies/tier_S_semiconductor/Qualcomm.md)
+## 🏢 Companies
+* [Status board (canonical)](companies/README.md)
 
-## Legacy
+### 🔬 Tier S — Semiconductor / Systems
+* [Tier index](companies/tier_S_semiconductor/README.md)
+* [Qualcomm](companies/tier_S_semiconductor/Qualcomm.md)
+* [Texas Instruments](companies/tier_S_semiconductor/Texas_Instruments.md)
+* [MediaTek](companies/tier_S_semiconductor/MediaTek.md)
+* [AMD](companies/tier_S_semiconductor/AMD.md)
+* [Arm](companies/tier_S_semiconductor/Arm.md)
+* [Micron](companies/tier_S_semiconductor/Micron.md)
+* [Western Digital / SanDisk](companies/tier_S_semiconductor/Western_Digital_SanDisk.md)
+* [Intel](companies/tier_S_semiconductor/Intel.md)
+* [Infineon](companies/tier_S_semiconductor/Infineon.md)
+* [Microchip](companies/tier_S_semiconductor/Microchip.md)
+* [Silicon Labs](companies/tier_S_semiconductor/Silicon_Labs.md)
+* [Realtek](companies/tier_S_semiconductor/Realtek.md)
+* [Morphing Machines](companies/tier_S_semiconductor/Morphing_Machines.md)
+* [Signalchip](companies/tier_S_semiconductor/Signalchip.md)
+* [Sedemac](companies/tier_S_semiconductor/Sedemac.md)
+* [NVIDIA](companies/tier_S_semiconductor/NVIDIA.md)
+* [Samsung R&D](companies/tier_S_semiconductor/Samsung_RD.md)
+* [Bosch](companies/tier_S_semiconductor/Bosch.md)
+* [BEL](companies/tier_S_semiconductor/BEL.md)
+* [Baya Systems](companies/tier_S_semiconductor/Baya_Systems.md)
+* [Kinara.ai](companies/tier_S_semiconductor/Kinara_ai.md)
+* [Human Powered Health – Quess Corp](companies/tier_S_semiconductor/Human_Powered_Health_Quess.md)
+
+### 📦 Tier P — Product / Fintech / SaaS
+* [Tier index](companies/tier_P_product/README.md)
+* [Cred](companies/tier_P_product/Cred.md)
+* [Flipkart (SDE)](companies/tier_P_product/Flipkart.md)
+* [Flipkart (Data Science)](companies/tier_P_product/Flipkart_Data_Science.md)
+* [Visa](companies/tier_P_product/Visa.md)
+* [Cisco](companies/tier_P_product/Cisco.md)
+* [Walmart Global Tech](companies/tier_P_product/Walmart_Global_Tech.md)
+* [PayPal](companies/tier_P_product/PayPal.md)
+* [ServiceNow](companies/tier_P_product/ServiceNow.md)
+* [Commvault](companies/tier_P_product/Commvault.md)
+* [RingCentral](companies/tier_P_product/RingCentral.md)
+* [Druva](companies/tier_P_product/Druva.md)
+* [Netskope](companies/tier_P_product/Netskope.md)
+* [Pine Labs](companies/tier_P_product/Pine_Labs.md)
+* [E6data](companies/tier_P_product/E6data.md)
+* [MathWorks (EDG)](companies/tier_P_product/MathWorks.md)
+* [Data Nimbus](companies/tier_P_product/Data_Nimbus.md)
+* [Netradyne](companies/tier_P_product/Netradyne.md)
+* [Saviynt](companies/tier_P_product/Saviynt.md)
+* [Sophos](companies/tier_P_product/Sophos.md)
+* [Societe Generale](companies/tier_P_product/Societe_Generale.md)
+* [IBM](companies/tier_P_product/IBM.md)
+* [Amdocs](companies/tier_P_product/Amdocs.md)
+* [Aurigo](companies/tier_P_product/Aurigo.md)
+* [Turtlemint](companies/tier_P_product/Turtlemint.md)
+* [Supermoney](companies/tier_P_product/Supermoney.md)
+* [Fiorano](companies/tier_P_product/Fiorano.md)
+* [Redwood Software](companies/tier_P_product/Redwood_Software.md)
+* [ZL Tech](companies/tier_P_product/ZL_Tech.md)
+* [Omnicell](companies/tier_P_product/Omnicell.md)
+* [Wabtec](companies/tier_P_product/Wabtec.md)
+* [Media.net](companies/tier_P_product/Media_net.md)
+
+### 🧰 Tier G — Services / Analytics / Niche
+* [Tier index](companies/tier_G_services/README.md)
+* [Accenture](companies/tier_G_services/Accenture.md)
+* [Infosys](companies/tier_G_services/Infosys.md)
+* [Axtria](companies/tier_G_services/Axtria.md)
+* [Quantium](companies/tier_G_services/Quantium.md)
+* [Pega Systems](companies/tier_G_services/Pega_Systems.md)
+* [SAI Group](companies/tier_G_services/SAI_Group.md)
+* [Zinnia](companies/tier_G_services/Zinnia.md)
+* [C-DAC](companies/tier_G_services/CDAC.md)
+* [Lumenci](companies/tier_G_services/Lumenci.md)
+* [Suhora](companies/tier_G_services/Suhora.md)
+* [Digantra](companies/tier_G_services/Digantra.md)
+* [Cynlr](companies/tier_G_services/Cynlr.md)
+* [Digit](companies/tier_G_services/Digit.md)
+* [Exovolt](companies/tier_G_services/Exovolt.md)
+* [Pacific Engineering](companies/tier_G_services/Pacific_Engineering.md)
+* [CBRE](companies/tier_G_services/CBRE.md)
+* [Schlumberger](companies/tier_G_services/Schlumberger.md)
+* [Becton Dickinson](companies/tier_G_services/Becton_Dickinson.md)
+* [TATA Technologies](companies/tier_G_services/TATA_Technologies.md)
+* [O9 Solutions](companies/tier_G_services/O9_Solutions.md)
+* [Tesco](companies/tier_G_services/Tesco.md)
+* [Fintech Blue Solutions](companies/tier_G_services/Fintech_Blue_Solutions.md)
+
+### 🚀 Tier F — FAANG+ / Quant / Bank peers
+* [Tier index](companies/tier_F_faang_quant/README.md)
+* [Google](companies/tier_F_faang_quant/Google.md)
+* [Microsoft](companies/tier_F_faang_quant/Microsoft.md)
+* [Amazon](companies/tier_F_faang_quant/Amazon.md)
+* [Meta](companies/tier_F_faang_quant/Meta.md)
+* [Apple](companies/tier_F_faang_quant/Apple.md)
+* [Databricks](companies/tier_F_faang_quant/Databricks.md)
+* [DE Shaw](companies/tier_F_faang_quant/DE_Shaw.md)
+* [Goldman Sachs](companies/tier_F_faang_quant/Goldman_Sachs.md)
+* [Morgan Stanley](companies/tier_F_faang_quant/Morgan_Stanley.md)
+* [American Express](companies/tier_F_faang_quant/American_Express.md)
+* [Mastercard](companies/tier_F_faang_quant/Mastercard.md)
+* [Capital One](companies/tier_F_faang_quant/Capital_One.md)
+* [Meesho](companies/tier_F_faang_quant/Meesho.md)
+* [Graviton Research Capital](companies/tier_F_faang_quant/Graviton.md)
+* [Optiver](companies/tier_F_faang_quant/Optiver.md)
+* [Quantbox](companies/tier_F_faang_quant/Quantbox.md)
+* [Wells Fargo](companies/tier_F_faang_quant/Wells_Fargo.md)
+* [ICICI Bank](companies/tier_F_faang_quant/ICICI_Bank.md)
+* [HDFC Bank](companies/tier_F_faang_quant/HDFC_Bank.md)
+* [HCL](companies/tier_F_faang_quant/HCL.md)
+* [Cognizant](companies/tier_F_faang_quant/Cognizant.md)
+* [Deloitte](companies/tier_F_faang_quant/Deloitte.md)
+* [Reliance](companies/tier_F_faang_quant/Reliance.md)
+* [Bajaj Auto](companies/tier_F_faang_quant/Bajaj_Auto.md)
+* [Tata Steel](companies/tier_F_faang_quant/Tata_Steel.md)
+* [Volvo / BPCL](companies/tier_F_faang_quant/Volvo_BPCL.md)
+
+## 💬 Contribute / Feedback
 * [Legacy README](_legacy/README.md)
+* [FEEDBACK (repo root)](../FEEDBACK.md)

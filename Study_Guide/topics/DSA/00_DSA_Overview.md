@@ -98,6 +98,7 @@ Lens: [Semiconductor_Systems](../../archetypes/Semiconductor_Systems.md)
 Struggle ≥20 min → ask for *hints/patterns*, not full solutions → stress-test edge cases after you solve.
 
 ## Resource Panel
+- [🧮 DSA pattern hubs (library)](../../library/DSA_Pattern_Hubs.md)
 - [30 Coding Patterns](https://drive.google.com/file/d/1EQHkfIdslaNfyfD0Py6hoNl8ZlXuEcYD/view)
 - [Complete DSA Roadmap](https://drive.google.com/file/d/10e8Q1yVymwxWhz9LgcWxwrkpW9eMxRla/view)
 - [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources)

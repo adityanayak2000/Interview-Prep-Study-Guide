@@ -19,6 +19,7 @@ Product interviews: joins, indexes, transactions. Some semiconductor panels (TI)
 [DBMS Boss Sheet](https://drive.google.com/file/d/1r1Yn5xhka9jpb75z8PO2SgD4g4F_Tcc_/view)
 
 ## Resource Panel
+- [📚 CN / DBMS / OOP PDF hub](../library/CN_DBMS_OOP_PDFs.md)
 - [SQL Interview Guide](https://drive.google.com/file/d/17vulPDcuIkbbx9UZXgnqoMfceQmDtYnb/view)
 - [DBMS Full Notes](https://drive.google.com/file/d/1KLm-chZD9hdOwIlFsKv6eemKzsbV80Wh/view)
 - [SQL Top 100](https://drive.google.com/file/d/1Px6ez6Sn7jb1DOSWE8kwesANdhhyjRzj/view)

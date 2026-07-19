@@ -502,6 +502,7 @@ OS owns naming, drivers, buffering, scheduling, interrupts/DMA, errors, and powe
 ## Resource Panel (library)
 _Interview Prep OS & Concurrency section + Systems Top-100 Group 3 — deep-link, do not paste PDFs._
 
+- [📚 OS / Systems PDFs & MCQs hub](../library/OS_Systems_PDFs.md) — MCQ bank, cheatsheets, OSTEP in one place
 - [OS Boss Sheet](https://drive.google.com/file/d/1YquLAtpYmeTLMpyUfb6qd2rVwnQpsz74/view)
 - [OSTEP (free book)](https://pages.cs.wisc.edu/~remzi/OSTEP/) — prioritize Ch 4–8, 13–15, 18–22, 26–32, 36–42
 - [Little Book of Semaphores (PDF)](https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
