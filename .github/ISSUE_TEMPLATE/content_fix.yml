@@ -1,0 +1,36 @@
+name: Content fix
+description: Typo, wrong explanation, outdated company/topic section, or status board correction
+title: "[content] "
+labels: ["content"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do **not** paste CTC, offer letters, or student PII. See [FEEDBACK.md](https://github.com/adityanayak2000/Interview-Prep-Study-Guide/blob/main/FEEDBACK.md).
+  - type: input
+    id: path
+    attributes:
+      label: File or section path
+      description: e.g. Study_Guide/topics/OS.md#interview-faq or companies/tier_P_product/Cred.md
+      placeholder: Study_Guide/topics/...
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - Typo / wording
+        - Incorrect concept
+        - Outdated process / rounds
+        - Missing section (gap)
+        - Status board wrong
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What’s wrong and what should it say?
+      description: Keep it short. Link sources with full https:// URLs if you have them.
+    validations:
+      required: true

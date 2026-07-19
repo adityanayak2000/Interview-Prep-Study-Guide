@@ -1,0 +1,31 @@
+---
+description: Sync living Interview Prep Google Doc into this repo before publish / when Doc updates
+alwaysApply: true
+---
+
+# Living Google Doc → repo sync
+
+## Living Doc URL
+
+https://docs.google.com/document/d/10mDBpsx1RuV9IgvK2yR-aXZN52mL46AJnTH5q70qTdA/edit?tab=t.0#heading=h.xdu8h5bvqhh8
+
+This Doc is the **online / editable** version of legacy Interview Prep content. New PDFs, Boss Sheets, and link updates often land here **before** the markdown exports in-repo.
+
+## When agents must check it
+
+- User asks to publish, push to GitHub, set up GitBook, or “update from the doc”
+- User says the Google Doc changed
+- Adding library links or refreshing Interview Prep / `_legacy` material
+
+## How to sync (do this — don’t invent)
+
+1. Treat the Doc as newer than stale `🎯 Interview Prep Resources.md` / `Interview_Prep_Resources_Context.md` when they disagree.
+2. Port **deltas only** into:
+   - library md at repo root, and/or
+   - one Resource Panel line / `Study_Guide/00_INDEX.md` curated row
+3. Keep strategy modular under `Study_Guide/` — never regenerate a monolith from the Doc.
+4. Keep the Doc URL listed in `Study_Guide/_legacy/README.md` and `CONTRIBUTING.md`.
+5. Never label §8 company Drive folders as “OA folders” (LC archives only).
+6. Never paste CTC tables; point to `ME_Computer_Science_Context.md`.
+
+Full human rules: `CONTRIBUTING.md` → *Living Google Doc sync*.

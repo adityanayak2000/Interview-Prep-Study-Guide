@@ -1,0 +1,48 @@
+---
+description: Study Guide insert/structure/push-pull architecture for Interview Prep repo
+globs:
+  - Study_Guide/**/*
+  - CONTRIBUTING.md
+  - FEEDBACK.md
+  - prompts/**/*
+  - README.md
+  - Interview_Prep_Resources_Context.md
+alwaysApply: false
+---
+
+# Study Guide architecture (agents)
+
+## Layers
+- **Strategy** = `Study_Guide/` (companies, topics, archetypes, `SUMMARY.md` for GitBook)
+- **Library** = root `🎯 Interview Prep Resources.md` + `Interview_Prep_Resources_Context.md`
+- **Status SoT** = `Study_Guide/companies/README.md`
+- **Feedback** = `FEEDBACK.md` + `.github/ISSUE_TEMPLATE` + Discussions (no Google Form)
+- **Living Doc** (often newest library source): see `living-doc-sync.mdc` + `_legacy/README.md`
+- Maintainer extracts/plans may live in a **local folder outside git** — never commit them
+
+## Topic file shape (preserve Boss Sheet)
+1. Why it matters → 2. Concept summary → 3. Patterns/drills → 4. Question bank  
+5. Code sketches → 6. **Boss Sheet (10 · 3 · 5)** → 7. **Resource Panel** (5–15 https links)
+
+## Insert rules
+| Change | Where |
+|---|---|
+| New/deepen company | `companies/_TEMPLATE.md` → tier folder; update status board |
+| Deepen topic | Existing `topics/*.md`; wire INDEX/SUMMARY only if **new** file |
+| Library PDF/link | Context (± emoji library) + optional one INDEX / Resource Panel row |
+| STL day-before | `topics/DSA/STL/` |
+| Visitor suggestion | Route per `FEEDBACK.md` |
+
+## Link rules
+- Company → topic: relative `../../topics/OS.md`
+- Topic → library: absolute `https://…`
+- §8 Drive folders = **LC archive (legacy)**, never “OA folder”
+- No CTC / LPA / student PII · No monolith Master guide · No invented OA
+
+## Git
+- Contributors: branch + PR. Owner (`adityanayak2000`) may push `main`.
+- Prefer `git pull --ff-only` before starting. No force-push from agents unless human explicitly orders it.
+- One feature per PR/session when possible.
+
+## Extract → merge (when private extracts exist)
+1. Read extract INDEX → 2. Paraphrase gaps into topics → 3. Never commit extract files → 4. Keep Boss Sheets

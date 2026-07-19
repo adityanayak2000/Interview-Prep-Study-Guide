@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Discussions — ideas & study questions
+    url: https://github.com/adityanayak2000/Interview-Prep-Study-Guide/discussions
+    about: Open-ended feedback, roadmap ideas, and prep Q&A (enable Discussions in repo Settings if this 404s).
+  - name: Contributing guide
+    url: https://github.com/adityanayak2000/Interview-Prep-Study-Guide/blob/main/CONTRIBUTING.md
+    about: How to structure PRs, Resource Panels, and Living Doc sync.
+  - name: Feedback routing
+    url: https://github.com/adityanayak2000/Interview-Prep-Study-Guide/blob/main/FEEDBACK.md
+    about: What to report, what not to send (no CTC / PII), and where maintainers apply fixes.

@@ -1,0 +1,13 @@
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+*.log
+.env
+.env.*
+# Local OS / editor noise only — keep Study_Guide, library markdown, and .cursor/rules
+
+# never
+ME_private_plans/
+*.xlsx

@@ -1,0 +1,31 @@
+name: Resource suggestion
+description: Propose a PDF, GitHub notes, LeetCode Discuss post, or practice link for a Resource Panel / INDEX
+title: "[resource] "
+labels: ["resources"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Curated Resource Panels stay **5–15 links**. §8 Drive folders are **LC archives (legacy)**, never “OA folders”. No CTC / PII.
+  - type: input
+    id: url
+    attributes:
+      label: Resource URL
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: landing
+    attributes:
+      label: Suggested landing file
+      description: e.g. Study_Guide/topics/Concurrency_Multithreading.md Resource Panel, or 00_INDEX.md
+      placeholder: Study_Guide/topics/...
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this belongs (1–3 lines)
+      description: Interview value, track (systems vs product), and any caveats (paywall, outdated).
+    validations:
+      required: true

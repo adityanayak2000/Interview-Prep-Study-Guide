@@ -1,0 +1,33 @@
+title: "[feedback] "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for visiting the Interview Prep Study Guide.
+
+        **Do not post** CTC/LPA tables, offer letters, or student PII.
+        Actionable typos / broken links → [open an Issue](https://github.com/adityanayak2000/Interview-Prep-Study-Guide/issues/new/choose) instead.
+        Routing rules: [FEEDBACK.md](https://github.com/adityanayak2000/Interview-Prep-Study-Guide/blob/main/FEEDBACK.md).
+  - type: textarea
+    id: idea
+    attributes:
+      label: Idea, question, or improvement
+      description: What would make company files, topics, STL quick-refs, or roadmaps more useful?
+      placeholder: e.g. Add a 3-day Tier S warm-up focused on LL + bits + OS oral...
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area (optional)
+      options:
+        - Topics (OS / Concurrency / C++ / DSA)
+        - Companies / status board
+        - STL quick reference
+        - Roadmaps / Boss Sheets
+        - Library / Living Doc sync
+        - Docs site / GitBook / navigation
+        - Other
+    validations:
+      required: false
