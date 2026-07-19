@@ -41,42 +41,42 @@ Five areas only — open one row, then drill down. (GitHub uses its own fonts; t
 
 ---
 
-## 🏢 Companies (~100 guides)
+## Companies (~100 guides)
 
-Full status board (canonical): **[Study_Guide/companies/README.md](Study_Guide/companies/README.md)** · TOC: [SUMMARY → Companies](Study_Guide/SUMMARY.md#companies)
+Full status board: **[Study_Guide/companies/README.md](Study_Guide/companies/README.md)** · [SUMMARY → Companies](Study_Guide/SUMMARY.md#companies)
 
 | Tier | Index | Sample companies |
 |---|---|---|
-| 🔬 S Semiconductor | [tier S](Study_Guide/companies/tier_S_semiconductor/README.md) | [Qualcomm](Study_Guide/companies/tier_S_semiconductor/Qualcomm.md) · [TI](Study_Guide/companies/tier_S_semiconductor/Texas_Instruments.md) · [NVIDIA](Study_Guide/companies/tier_S_semiconductor/NVIDIA.md) · [AMD](Study_Guide/companies/tier_S_semiconductor/AMD.md) |
-| 📦 P Product | [tier P](Study_Guide/companies/tier_P_product/README.md) | [Flipkart](Study_Guide/companies/tier_P_product/Flipkart.md) · [Visa](Study_Guide/companies/tier_P_product/Visa.md) · [CRED](Study_Guide/companies/tier_P_product/Cred.md) · [Media.net](Study_Guide/companies/tier_P_product/Media_net.md) |
-| 🧰 G Services | [tier G](Study_Guide/companies/tier_G_services/README.md) | [Accenture](Study_Guide/companies/tier_G_services/Accenture.md) · [Infosys](Study_Guide/companies/tier_G_services/Infosys.md) · [CBRE](Study_Guide/companies/tier_G_services/CBRE.md) · [Tesco](Study_Guide/companies/tier_G_services/Tesco.md) |
-| 🚀 F FAANG+ / Quant | [tier F](Study_Guide/companies/tier_F_faang_quant/README.md) | [Google](Study_Guide/companies/tier_F_faang_quant/Google.md) · [Microsoft](Study_Guide/companies/tier_F_faang_quant/Microsoft.md) · [Amazon](Study_Guide/companies/tier_F_faang_quant/Amazon.md) · [Meta](Study_Guide/companies/tier_F_faang_quant/Meta.md) |
+| **S** Semiconductor | [tier S](Study_Guide/companies/tier_S_semiconductor/README.md) | [Qualcomm](Study_Guide/companies/tier_S_semiconductor/Qualcomm.md) · [TI](Study_Guide/companies/tier_S_semiconductor/Texas_Instruments.md) · [NVIDIA](Study_Guide/companies/tier_S_semiconductor/NVIDIA.md) · [AMD](Study_Guide/companies/tier_S_semiconductor/AMD.md) |
+| **P** Product | [tier P](Study_Guide/companies/tier_P_product/README.md) | [Flipkart](Study_Guide/companies/tier_P_product/Flipkart.md) · [Visa](Study_Guide/companies/tier_P_product/Visa.md) · [CRED](Study_Guide/companies/tier_P_product/Cred.md) · [Media.net](Study_Guide/companies/tier_P_product/Media_net.md) |
+| **G** Services | [tier G](Study_Guide/companies/tier_G_services/README.md) | [Accenture](Study_Guide/companies/tier_G_services/Accenture.md) · [Infosys](Study_Guide/companies/tier_G_services/Infosys.md) · [CBRE](Study_Guide/companies/tier_G_services/CBRE.md) · [Tesco](Study_Guide/companies/tier_G_services/Tesco.md) |
+| **F** FAANG+ / Quant | [tier F](Study_Guide/companies/tier_F_faang_quant/README.md) | [Google](Study_Guide/companies/tier_F_faang_quant/Google.md) · [Microsoft](Study_Guide/companies/tier_F_faang_quant/Microsoft.md) · [Amazon](Study_Guide/companies/tier_F_faang_quant/Amazon.md) · [Meta](Study_Guide/companies/tier_F_faang_quant/Meta.md) |
 
 Also on Tier F: [Goldman](Study_Guide/companies/tier_F_faang_quant/Goldman_Sachs.md) · [DE Shaw](Study_Guide/companies/tier_F_faang_quant/DE_Shaw.md) · [Deloitte](Study_Guide/companies/tier_F_faang_quant/Deloitte.md) · [Meesho](Study_Guide/companies/tier_F_faang_quant/Meesho.md)
 
-Statuses: `✅ done-v3` = researched · `⚠️ insufficient` = thin public data. **Full #1–100 list:** expand below (or open the [status board](Study_Guide/companies/README.md)).
+Statuses: `done-v3` = researched · `insufficient` = thin public data. Full list: expand below, or open the [status board](Study_Guide/companies/README.md).
 
 ---
 
-## Contribute in 5 steps
+## Contribute
 
 1. Fork / clone; create a feature branch.  
-2. Read [CONTRIBUTING.md](CONTRIBUTING.md) + [companies/_TEMPLATE.md](Study_Guide/companies/_TEMPLATE.md).  
+2. Read [CONTRIBUTING.md](CONTRIBUTING.md) and [companies/_TEMPLATE.md](Study_Guide/companies/_TEMPLATE.md).  
 3. Gather links (GFG, Discuss, Medium, Drive PDFs).  
 4. Use [prompts/AI_CONTRIBUTOR_BRIEF.md](prompts/AI_CONTRIBUTOR_BRIEF.md).  
-5. Open a **Pull Request**. Direct push to `main` only for **adityanayak2000**.
+5. Open a pull request. Direct push to `main` only for **adityanayak2000**.
 
 ---
 
 ## Publishing
 
-- **GitHub markdown is the source of truth** and the recommended junior UX after this nav overhaul.  
-- Living Doc sync rules: [CONTRIBUTING](CONTRIBUTING.md) · [Study_Guide/_legacy/README.md](Study_Guide/_legacy/README.md).
+- GitHub markdown is the source of truth.  
+- Living Doc sync: [CONTRIBUTING](CONTRIBUTING.md) · [Study_Guide/_legacy/README.md](Study_Guide/_legacy/README.md).
 
 ---
 
 <details>
-<summary>📋 Complete company index (click to expand)</summary>
+<summary>Complete company index (click to expand)</summary>
 
 Status: `✅ done-v3` = researched · `⚠️ insufficient` = thin public data. Canonical board: [Study_Guide/companies/README.md](Study_Guide/companies/README.md).
 
